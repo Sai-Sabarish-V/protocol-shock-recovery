@@ -1,1025 +1,1025 @@
-object_id,taxonomic_class,habitat,diet,body_size,activity_pattern
-1,Mammal,Terrestrial,Carnivore,Small,Diurnal
-2,Mammal,Terrestrial,Carnivore,Small,Nocturnal
-3,Mammal,Terrestrial,Carnivore,Small,Crepuscular
-4,Mammal,Terrestrial,Carnivore,Small,Cathemeral
-5,Mammal,Terrestrial,Carnivore,Medium,Diurnal
-6,Mammal,Terrestrial,Carnivore,Medium,Nocturnal
-7,Mammal,Terrestrial,Carnivore,Medium,Crepuscular
-8,Mammal,Terrestrial,Carnivore,Medium,Cathemeral
-9,Mammal,Terrestrial,Carnivore,Large,Diurnal
-10,Mammal,Terrestrial,Carnivore,Large,Nocturnal
-11,Mammal,Terrestrial,Carnivore,Large,Crepuscular
-12,Mammal,Terrestrial,Carnivore,Large,Cathemeral
-13,Mammal,Terrestrial,Carnivore,Very Large,Diurnal
-14,Mammal,Terrestrial,Carnivore,Very Large,Nocturnal
-15,Mammal,Terrestrial,Carnivore,Very Large,Crepuscular
-16,Mammal,Terrestrial,Carnivore,Very Large,Cathemeral
-17,Mammal,Terrestrial,Herbivore,Small,Diurnal
-18,Mammal,Terrestrial,Herbivore,Small,Nocturnal
-19,Mammal,Terrestrial,Herbivore,Small,Crepuscular
-20,Mammal,Terrestrial,Herbivore,Small,Cathemeral
-21,Mammal,Terrestrial,Herbivore,Medium,Diurnal
-22,Mammal,Terrestrial,Herbivore,Medium,Nocturnal
-23,Mammal,Terrestrial,Herbivore,Medium,Crepuscular
-24,Mammal,Terrestrial,Herbivore,Medium,Cathemeral
-25,Mammal,Terrestrial,Herbivore,Large,Diurnal
-26,Mammal,Terrestrial,Herbivore,Large,Nocturnal
-27,Mammal,Terrestrial,Herbivore,Large,Crepuscular
-28,Mammal,Terrestrial,Herbivore,Large,Cathemeral
-29,Mammal,Terrestrial,Herbivore,Very Large,Diurnal
-30,Mammal,Terrestrial,Herbivore,Very Large,Nocturnal
-31,Mammal,Terrestrial,Herbivore,Very Large,Crepuscular
-32,Mammal,Terrestrial,Herbivore,Very Large,Cathemeral
-33,Mammal,Terrestrial,Omnivore,Small,Diurnal
-34,Mammal,Terrestrial,Omnivore,Small,Nocturnal
-35,Mammal,Terrestrial,Omnivore,Small,Crepuscular
-36,Mammal,Terrestrial,Omnivore,Small,Cathemeral
-37,Mammal,Terrestrial,Omnivore,Medium,Diurnal
-38,Mammal,Terrestrial,Omnivore,Medium,Nocturnal
-39,Mammal,Terrestrial,Omnivore,Medium,Crepuscular
-40,Mammal,Terrestrial,Omnivore,Medium,Cathemeral
-41,Mammal,Terrestrial,Omnivore,Large,Diurnal
-42,Mammal,Terrestrial,Omnivore,Large,Nocturnal
-43,Mammal,Terrestrial,Omnivore,Large,Crepuscular
-44,Mammal,Terrestrial,Omnivore,Large,Cathemeral
-45,Mammal,Terrestrial,Omnivore,Very Large,Diurnal
-46,Mammal,Terrestrial,Omnivore,Very Large,Nocturnal
-47,Mammal,Terrestrial,Omnivore,Very Large,Crepuscular
-48,Mammal,Terrestrial,Omnivore,Very Large,Cathemeral
-49,Mammal,Terrestrial,Insectivore,Small,Diurnal
-50,Mammal,Terrestrial,Insectivore,Small,Nocturnal
-51,Mammal,Terrestrial,Insectivore,Small,Crepuscular
-52,Mammal,Terrestrial,Insectivore,Small,Cathemeral
-53,Mammal,Terrestrial,Insectivore,Medium,Diurnal
-54,Mammal,Terrestrial,Insectivore,Medium,Nocturnal
-55,Mammal,Terrestrial,Insectivore,Medium,Crepuscular
-56,Mammal,Terrestrial,Insectivore,Medium,Cathemeral
-57,Mammal,Terrestrial,Insectivore,Large,Diurnal
-58,Mammal,Terrestrial,Insectivore,Large,Nocturnal
-59,Mammal,Terrestrial,Insectivore,Large,Crepuscular
-60,Mammal,Terrestrial,Insectivore,Large,Cathemeral
-61,Mammal,Terrestrial,Insectivore,Very Large,Diurnal
-62,Mammal,Terrestrial,Insectivore,Very Large,Nocturnal
-63,Mammal,Terrestrial,Insectivore,Very Large,Crepuscular
-64,Mammal,Terrestrial,Insectivore,Very Large,Cathemeral
-65,Mammal,Aquatic,Carnivore,Small,Diurnal
-66,Mammal,Aquatic,Carnivore,Small,Nocturnal
-67,Mammal,Aquatic,Carnivore,Small,Crepuscular
-68,Mammal,Aquatic,Carnivore,Small,Cathemeral
-69,Mammal,Aquatic,Carnivore,Medium,Diurnal
-70,Mammal,Aquatic,Carnivore,Medium,Nocturnal
-71,Mammal,Aquatic,Carnivore,Medium,Crepuscular
-72,Mammal,Aquatic,Carnivore,Medium,Cathemeral
-73,Mammal,Aquatic,Carnivore,Large,Diurnal
-74,Mammal,Aquatic,Carnivore,Large,Nocturnal
-75,Mammal,Aquatic,Carnivore,Large,Crepuscular
-76,Mammal,Aquatic,Carnivore,Large,Cathemeral
-77,Mammal,Aquatic,Carnivore,Very Large,Diurnal
-78,Mammal,Aquatic,Carnivore,Very Large,Nocturnal
-79,Mammal,Aquatic,Carnivore,Very Large,Crepuscular
-80,Mammal,Aquatic,Carnivore,Very Large,Cathemeral
-81,Mammal,Aquatic,Herbivore,Small,Diurnal
-82,Mammal,Aquatic,Herbivore,Small,Nocturnal
-83,Mammal,Aquatic,Herbivore,Small,Crepuscular
-84,Mammal,Aquatic,Herbivore,Small,Cathemeral
-85,Mammal,Aquatic,Herbivore,Medium,Diurnal
-86,Mammal,Aquatic,Herbivore,Medium,Nocturnal
-87,Mammal,Aquatic,Herbivore,Medium,Crepuscular
-88,Mammal,Aquatic,Herbivore,Medium,Cathemeral
-89,Mammal,Aquatic,Herbivore,Large,Diurnal
-90,Mammal,Aquatic,Herbivore,Large,Nocturnal
-91,Mammal,Aquatic,Herbivore,Large,Crepuscular
-92,Mammal,Aquatic,Herbivore,Large,Cathemeral
-93,Mammal,Aquatic,Herbivore,Very Large,Diurnal
-94,Mammal,Aquatic,Herbivore,Very Large,Nocturnal
-95,Mammal,Aquatic,Herbivore,Very Large,Crepuscular
-96,Mammal,Aquatic,Herbivore,Very Large,Cathemeral
-97,Mammal,Aquatic,Omnivore,Small,Diurnal
-98,Mammal,Aquatic,Omnivore,Small,Nocturnal
-99,Mammal,Aquatic,Omnivore,Small,Crepuscular
-100,Mammal,Aquatic,Omnivore,Small,Cathemeral
-101,Mammal,Aquatic,Omnivore,Medium,Diurnal
-102,Mammal,Aquatic,Omnivore,Medium,Nocturnal
-103,Mammal,Aquatic,Omnivore,Medium,Crepuscular
-104,Mammal,Aquatic,Omnivore,Medium,Cathemeral
-105,Mammal,Aquatic,Omnivore,Large,Diurnal
-106,Mammal,Aquatic,Omnivore,Large,Nocturnal
-107,Mammal,Aquatic,Omnivore,Large,Crepuscular
-108,Mammal,Aquatic,Omnivore,Large,Cathemeral
-109,Mammal,Aquatic,Omnivore,Very Large,Diurnal
-110,Mammal,Aquatic,Omnivore,Very Large,Nocturnal
-111,Mammal,Aquatic,Omnivore,Very Large,Crepuscular
-112,Mammal,Aquatic,Omnivore,Very Large,Cathemeral
-113,Mammal,Aquatic,Insectivore,Small,Diurnal
-114,Mammal,Aquatic,Insectivore,Small,Nocturnal
-115,Mammal,Aquatic,Insectivore,Small,Crepuscular
-116,Mammal,Aquatic,Insectivore,Small,Cathemeral
-117,Mammal,Aquatic,Insectivore,Medium,Diurnal
-118,Mammal,Aquatic,Insectivore,Medium,Nocturnal
-119,Mammal,Aquatic,Insectivore,Medium,Crepuscular
-120,Mammal,Aquatic,Insectivore,Medium,Cathemeral
-121,Mammal,Aquatic,Insectivore,Large,Diurnal
-122,Mammal,Aquatic,Insectivore,Large,Nocturnal
-123,Mammal,Aquatic,Insectivore,Large,Crepuscular
-124,Mammal,Aquatic,Insectivore,Large,Cathemeral
-125,Mammal,Aquatic,Insectivore,Very Large,Diurnal
-126,Mammal,Aquatic,Insectivore,Very Large,Nocturnal
-127,Mammal,Aquatic,Insectivore,Very Large,Crepuscular
-128,Mammal,Aquatic,Insectivore,Very Large,Cathemeral
-129,Mammal,Aerial,Carnivore,Small,Diurnal
-130,Mammal,Aerial,Carnivore,Small,Nocturnal
-131,Mammal,Aerial,Carnivore,Small,Crepuscular
-132,Mammal,Aerial,Carnivore,Small,Cathemeral
-133,Mammal,Aerial,Carnivore,Medium,Diurnal
-134,Mammal,Aerial,Carnivore,Medium,Nocturnal
-135,Mammal,Aerial,Carnivore,Medium,Crepuscular
-136,Mammal,Aerial,Carnivore,Medium,Cathemeral
-137,Mammal,Aerial,Carnivore,Large,Diurnal
-138,Mammal,Aerial,Carnivore,Large,Nocturnal
-139,Mammal,Aerial,Carnivore,Large,Crepuscular
-140,Mammal,Aerial,Carnivore,Large,Cathemeral
-141,Mammal,Aerial,Carnivore,Very Large,Diurnal
-142,Mammal,Aerial,Carnivore,Very Large,Nocturnal
-143,Mammal,Aerial,Carnivore,Very Large,Crepuscular
-144,Mammal,Aerial,Carnivore,Very Large,Cathemeral
-145,Mammal,Aerial,Herbivore,Small,Diurnal
-146,Mammal,Aerial,Herbivore,Small,Nocturnal
-147,Mammal,Aerial,Herbivore,Small,Crepuscular
-148,Mammal,Aerial,Herbivore,Small,Cathemeral
-149,Mammal,Aerial,Herbivore,Medium,Diurnal
-150,Mammal,Aerial,Herbivore,Medium,Nocturnal
-151,Mammal,Aerial,Herbivore,Medium,Crepuscular
-152,Mammal,Aerial,Herbivore,Medium,Cathemeral
-153,Mammal,Aerial,Herbivore,Large,Diurnal
-154,Mammal,Aerial,Herbivore,Large,Nocturnal
-155,Mammal,Aerial,Herbivore,Large,Crepuscular
-156,Mammal,Aerial,Herbivore,Large,Cathemeral
-157,Mammal,Aerial,Herbivore,Very Large,Diurnal
-158,Mammal,Aerial,Herbivore,Very Large,Nocturnal
-159,Mammal,Aerial,Herbivore,Very Large,Crepuscular
-160,Mammal,Aerial,Herbivore,Very Large,Cathemeral
-161,Mammal,Aerial,Omnivore,Small,Diurnal
-162,Mammal,Aerial,Omnivore,Small,Nocturnal
-163,Mammal,Aerial,Omnivore,Small,Crepuscular
-164,Mammal,Aerial,Omnivore,Small,Cathemeral
-165,Mammal,Aerial,Omnivore,Medium,Diurnal
-166,Mammal,Aerial,Omnivore,Medium,Nocturnal
-167,Mammal,Aerial,Omnivore,Medium,Crepuscular
-168,Mammal,Aerial,Omnivore,Medium,Cathemeral
-169,Mammal,Aerial,Omnivore,Large,Diurnal
-170,Mammal,Aerial,Omnivore,Large,Nocturnal
-171,Mammal,Aerial,Omnivore,Large,Crepuscular
-172,Mammal,Aerial,Omnivore,Large,Cathemeral
-173,Mammal,Aerial,Omnivore,Very Large,Diurnal
-174,Mammal,Aerial,Omnivore,Very Large,Nocturnal
-175,Mammal,Aerial,Omnivore,Very Large,Crepuscular
-176,Mammal,Aerial,Omnivore,Very Large,Cathemeral
-177,Mammal,Aerial,Insectivore,Small,Diurnal
-178,Mammal,Aerial,Insectivore,Small,Nocturnal
-179,Mammal,Aerial,Insectivore,Small,Crepuscular
-180,Mammal,Aerial,Insectivore,Small,Cathemeral
-181,Mammal,Aerial,Insectivore,Medium,Diurnal
-182,Mammal,Aerial,Insectivore,Medium,Nocturnal
-183,Mammal,Aerial,Insectivore,Medium,Crepuscular
-184,Mammal,Aerial,Insectivore,Medium,Cathemeral
-185,Mammal,Aerial,Insectivore,Large,Diurnal
-186,Mammal,Aerial,Insectivore,Large,Nocturnal
-187,Mammal,Aerial,Insectivore,Large,Crepuscular
-188,Mammal,Aerial,Insectivore,Large,Cathemeral
-189,Mammal,Aerial,Insectivore,Very Large,Diurnal
-190,Mammal,Aerial,Insectivore,Very Large,Nocturnal
-191,Mammal,Aerial,Insectivore,Very Large,Crepuscular
-192,Mammal,Aerial,Insectivore,Very Large,Cathemeral
-193,Mammal,Semi-aquatic,Carnivore,Small,Diurnal
-194,Mammal,Semi-aquatic,Carnivore,Small,Nocturnal
-195,Mammal,Semi-aquatic,Carnivore,Small,Crepuscular
-196,Mammal,Semi-aquatic,Carnivore,Small,Cathemeral
-197,Mammal,Semi-aquatic,Carnivore,Medium,Diurnal
-198,Mammal,Semi-aquatic,Carnivore,Medium,Nocturnal
-199,Mammal,Semi-aquatic,Carnivore,Medium,Crepuscular
-200,Mammal,Semi-aquatic,Carnivore,Medium,Cathemeral
-201,Mammal,Semi-aquatic,Carnivore,Large,Diurnal
-202,Mammal,Semi-aquatic,Carnivore,Large,Nocturnal
-203,Mammal,Semi-aquatic,Carnivore,Large,Crepuscular
-204,Mammal,Semi-aquatic,Carnivore,Large,Cathemeral
-205,Mammal,Semi-aquatic,Carnivore,Very Large,Diurnal
-206,Mammal,Semi-aquatic,Carnivore,Very Large,Nocturnal
-207,Mammal,Semi-aquatic,Carnivore,Very Large,Crepuscular
-208,Mammal,Semi-aquatic,Carnivore,Very Large,Cathemeral
-209,Mammal,Semi-aquatic,Herbivore,Small,Diurnal
-210,Mammal,Semi-aquatic,Herbivore,Small,Nocturnal
-211,Mammal,Semi-aquatic,Herbivore,Small,Crepuscular
-212,Mammal,Semi-aquatic,Herbivore,Small,Cathemeral
-213,Mammal,Semi-aquatic,Herbivore,Medium,Diurnal
-214,Mammal,Semi-aquatic,Herbivore,Medium,Nocturnal
-215,Mammal,Semi-aquatic,Herbivore,Medium,Crepuscular
-216,Mammal,Semi-aquatic,Herbivore,Medium,Cathemeral
-217,Mammal,Semi-aquatic,Herbivore,Large,Diurnal
-218,Mammal,Semi-aquatic,Herbivore,Large,Nocturnal
-219,Mammal,Semi-aquatic,Herbivore,Large,Crepuscular
-220,Mammal,Semi-aquatic,Herbivore,Large,Cathemeral
-221,Mammal,Semi-aquatic,Herbivore,Very Large,Diurnal
-222,Mammal,Semi-aquatic,Herbivore,Very Large,Nocturnal
-223,Mammal,Semi-aquatic,Herbivore,Very Large,Crepuscular
-224,Mammal,Semi-aquatic,Herbivore,Very Large,Cathemeral
-225,Mammal,Semi-aquatic,Omnivore,Small,Diurnal
-226,Mammal,Semi-aquatic,Omnivore,Small,Nocturnal
-227,Mammal,Semi-aquatic,Omnivore,Small,Crepuscular
-228,Mammal,Semi-aquatic,Omnivore,Small,Cathemeral
-229,Mammal,Semi-aquatic,Omnivore,Medium,Diurnal
-230,Mammal,Semi-aquatic,Omnivore,Medium,Nocturnal
-231,Mammal,Semi-aquatic,Omnivore,Medium,Crepuscular
-232,Mammal,Semi-aquatic,Omnivore,Medium,Cathemeral
-233,Mammal,Semi-aquatic,Omnivore,Large,Diurnal
-234,Mammal,Semi-aquatic,Omnivore,Large,Nocturnal
-235,Mammal,Semi-aquatic,Omnivore,Large,Crepuscular
-236,Mammal,Semi-aquatic,Omnivore,Large,Cathemeral
-237,Mammal,Semi-aquatic,Omnivore,Very Large,Diurnal
-238,Mammal,Semi-aquatic,Omnivore,Very Large,Nocturnal
-239,Mammal,Semi-aquatic,Omnivore,Very Large,Crepuscular
-240,Mammal,Semi-aquatic,Omnivore,Very Large,Cathemeral
-241,Mammal,Semi-aquatic,Insectivore,Small,Diurnal
-242,Mammal,Semi-aquatic,Insectivore,Small,Nocturnal
-243,Mammal,Semi-aquatic,Insectivore,Small,Crepuscular
-244,Mammal,Semi-aquatic,Insectivore,Small,Cathemeral
-245,Mammal,Semi-aquatic,Insectivore,Medium,Diurnal
-246,Mammal,Semi-aquatic,Insectivore,Medium,Nocturnal
-247,Mammal,Semi-aquatic,Insectivore,Medium,Crepuscular
-248,Mammal,Semi-aquatic,Insectivore,Medium,Cathemeral
-249,Mammal,Semi-aquatic,Insectivore,Large,Diurnal
-250,Mammal,Semi-aquatic,Insectivore,Large,Nocturnal
-251,Mammal,Semi-aquatic,Insectivore,Large,Crepuscular
-252,Mammal,Semi-aquatic,Insectivore,Large,Cathemeral
-253,Mammal,Semi-aquatic,Insectivore,Very Large,Diurnal
-254,Mammal,Semi-aquatic,Insectivore,Very Large,Nocturnal
-255,Mammal,Semi-aquatic,Insectivore,Very Large,Crepuscular
-256,Mammal,Semi-aquatic,Insectivore,Very Large,Cathemeral
-257,Bird,Terrestrial,Carnivore,Small,Diurnal
-258,Bird,Terrestrial,Carnivore,Small,Nocturnal
-259,Bird,Terrestrial,Carnivore,Small,Crepuscular
-260,Bird,Terrestrial,Carnivore,Small,Cathemeral
-261,Bird,Terrestrial,Carnivore,Medium,Diurnal
-262,Bird,Terrestrial,Carnivore,Medium,Nocturnal
-263,Bird,Terrestrial,Carnivore,Medium,Crepuscular
-264,Bird,Terrestrial,Carnivore,Medium,Cathemeral
-265,Bird,Terrestrial,Carnivore,Large,Diurnal
-266,Bird,Terrestrial,Carnivore,Large,Nocturnal
-267,Bird,Terrestrial,Carnivore,Large,Crepuscular
-268,Bird,Terrestrial,Carnivore,Large,Cathemeral
-269,Bird,Terrestrial,Carnivore,Very Large,Diurnal
-270,Bird,Terrestrial,Carnivore,Very Large,Nocturnal
-271,Bird,Terrestrial,Carnivore,Very Large,Crepuscular
-272,Bird,Terrestrial,Carnivore,Very Large,Cathemeral
-273,Bird,Terrestrial,Herbivore,Small,Diurnal
-274,Bird,Terrestrial,Herbivore,Small,Nocturnal
-275,Bird,Terrestrial,Herbivore,Small,Crepuscular
-276,Bird,Terrestrial,Herbivore,Small,Cathemeral
-277,Bird,Terrestrial,Herbivore,Medium,Diurnal
-278,Bird,Terrestrial,Herbivore,Medium,Nocturnal
-279,Bird,Terrestrial,Herbivore,Medium,Crepuscular
-280,Bird,Terrestrial,Herbivore,Medium,Cathemeral
-281,Bird,Terrestrial,Herbivore,Large,Diurnal
-282,Bird,Terrestrial,Herbivore,Large,Nocturnal
-283,Bird,Terrestrial,Herbivore,Large,Crepuscular
-284,Bird,Terrestrial,Herbivore,Large,Cathemeral
-285,Bird,Terrestrial,Herbivore,Very Large,Diurnal
-286,Bird,Terrestrial,Herbivore,Very Large,Nocturnal
-287,Bird,Terrestrial,Herbivore,Very Large,Crepuscular
-288,Bird,Terrestrial,Herbivore,Very Large,Cathemeral
-289,Bird,Terrestrial,Omnivore,Small,Diurnal
-290,Bird,Terrestrial,Omnivore,Small,Nocturnal
-291,Bird,Terrestrial,Omnivore,Small,Crepuscular
-292,Bird,Terrestrial,Omnivore,Small,Cathemeral
-293,Bird,Terrestrial,Omnivore,Medium,Diurnal
-294,Bird,Terrestrial,Omnivore,Medium,Nocturnal
-295,Bird,Terrestrial,Omnivore,Medium,Crepuscular
-296,Bird,Terrestrial,Omnivore,Medium,Cathemeral
-297,Bird,Terrestrial,Omnivore,Large,Diurnal
-298,Bird,Terrestrial,Omnivore,Large,Nocturnal
-299,Bird,Terrestrial,Omnivore,Large,Crepuscular
-300,Bird,Terrestrial,Omnivore,Large,Cathemeral
-301,Bird,Terrestrial,Omnivore,Very Large,Diurnal
-302,Bird,Terrestrial,Omnivore,Very Large,Nocturnal
-303,Bird,Terrestrial,Omnivore,Very Large,Crepuscular
-304,Bird,Terrestrial,Omnivore,Very Large,Cathemeral
-305,Bird,Terrestrial,Insectivore,Small,Diurnal
-306,Bird,Terrestrial,Insectivore,Small,Nocturnal
-307,Bird,Terrestrial,Insectivore,Small,Crepuscular
-308,Bird,Terrestrial,Insectivore,Small,Cathemeral
-309,Bird,Terrestrial,Insectivore,Medium,Diurnal
-310,Bird,Terrestrial,Insectivore,Medium,Nocturnal
-311,Bird,Terrestrial,Insectivore,Medium,Crepuscular
-312,Bird,Terrestrial,Insectivore,Medium,Cathemeral
-313,Bird,Terrestrial,Insectivore,Large,Diurnal
-314,Bird,Terrestrial,Insectivore,Large,Nocturnal
-315,Bird,Terrestrial,Insectivore,Large,Crepuscular
-316,Bird,Terrestrial,Insectivore,Large,Cathemeral
-317,Bird,Terrestrial,Insectivore,Very Large,Diurnal
-318,Bird,Terrestrial,Insectivore,Very Large,Nocturnal
-319,Bird,Terrestrial,Insectivore,Very Large,Crepuscular
-320,Bird,Terrestrial,Insectivore,Very Large,Cathemeral
-321,Bird,Aquatic,Carnivore,Small,Diurnal
-322,Bird,Aquatic,Carnivore,Small,Nocturnal
-323,Bird,Aquatic,Carnivore,Small,Crepuscular
-324,Bird,Aquatic,Carnivore,Small,Cathemeral
-325,Bird,Aquatic,Carnivore,Medium,Diurnal
-326,Bird,Aquatic,Carnivore,Medium,Nocturnal
-327,Bird,Aquatic,Carnivore,Medium,Crepuscular
-328,Bird,Aquatic,Carnivore,Medium,Cathemeral
-329,Bird,Aquatic,Carnivore,Large,Diurnal
-330,Bird,Aquatic,Carnivore,Large,Nocturnal
-331,Bird,Aquatic,Carnivore,Large,Crepuscular
-332,Bird,Aquatic,Carnivore,Large,Cathemeral
-333,Bird,Aquatic,Carnivore,Very Large,Diurnal
-334,Bird,Aquatic,Carnivore,Very Large,Nocturnal
-335,Bird,Aquatic,Carnivore,Very Large,Crepuscular
-336,Bird,Aquatic,Carnivore,Very Large,Cathemeral
-337,Bird,Aquatic,Herbivore,Small,Diurnal
-338,Bird,Aquatic,Herbivore,Small,Nocturnal
-339,Bird,Aquatic,Herbivore,Small,Crepuscular
-340,Bird,Aquatic,Herbivore,Small,Cathemeral
-341,Bird,Aquatic,Herbivore,Medium,Diurnal
-342,Bird,Aquatic,Herbivore,Medium,Nocturnal
-343,Bird,Aquatic,Herbivore,Medium,Crepuscular
-344,Bird,Aquatic,Herbivore,Medium,Cathemeral
-345,Bird,Aquatic,Herbivore,Large,Diurnal
-346,Bird,Aquatic,Herbivore,Large,Nocturnal
-347,Bird,Aquatic,Herbivore,Large,Crepuscular
-348,Bird,Aquatic,Herbivore,Large,Cathemeral
-349,Bird,Aquatic,Herbivore,Very Large,Diurnal
-350,Bird,Aquatic,Herbivore,Very Large,Nocturnal
-351,Bird,Aquatic,Herbivore,Very Large,Crepuscular
-352,Bird,Aquatic,Herbivore,Very Large,Cathemeral
-353,Bird,Aquatic,Omnivore,Small,Diurnal
-354,Bird,Aquatic,Omnivore,Small,Nocturnal
-355,Bird,Aquatic,Omnivore,Small,Crepuscular
-356,Bird,Aquatic,Omnivore,Small,Cathemeral
-357,Bird,Aquatic,Omnivore,Medium,Diurnal
-358,Bird,Aquatic,Omnivore,Medium,Nocturnal
-359,Bird,Aquatic,Omnivore,Medium,Crepuscular
-360,Bird,Aquatic,Omnivore,Medium,Cathemeral
-361,Bird,Aquatic,Omnivore,Large,Diurnal
-362,Bird,Aquatic,Omnivore,Large,Nocturnal
-363,Bird,Aquatic,Omnivore,Large,Crepuscular
-364,Bird,Aquatic,Omnivore,Large,Cathemeral
-365,Bird,Aquatic,Omnivore,Very Large,Diurnal
-366,Bird,Aquatic,Omnivore,Very Large,Nocturnal
-367,Bird,Aquatic,Omnivore,Very Large,Crepuscular
-368,Bird,Aquatic,Omnivore,Very Large,Cathemeral
-369,Bird,Aquatic,Insectivore,Small,Diurnal
-370,Bird,Aquatic,Insectivore,Small,Nocturnal
-371,Bird,Aquatic,Insectivore,Small,Crepuscular
-372,Bird,Aquatic,Insectivore,Small,Cathemeral
-373,Bird,Aquatic,Insectivore,Medium,Diurnal
-374,Bird,Aquatic,Insectivore,Medium,Nocturnal
-375,Bird,Aquatic,Insectivore,Medium,Crepuscular
-376,Bird,Aquatic,Insectivore,Medium,Cathemeral
-377,Bird,Aquatic,Insectivore,Large,Diurnal
-378,Bird,Aquatic,Insectivore,Large,Nocturnal
-379,Bird,Aquatic,Insectivore,Large,Crepuscular
-380,Bird,Aquatic,Insectivore,Large,Cathemeral
-381,Bird,Aquatic,Insectivore,Very Large,Diurnal
-382,Bird,Aquatic,Insectivore,Very Large,Nocturnal
-383,Bird,Aquatic,Insectivore,Very Large,Crepuscular
-384,Bird,Aquatic,Insectivore,Very Large,Cathemeral
-385,Bird,Aerial,Carnivore,Small,Diurnal
-386,Bird,Aerial,Carnivore,Small,Nocturnal
-387,Bird,Aerial,Carnivore,Small,Crepuscular
-388,Bird,Aerial,Carnivore,Small,Cathemeral
-389,Bird,Aerial,Carnivore,Medium,Diurnal
-390,Bird,Aerial,Carnivore,Medium,Nocturnal
-391,Bird,Aerial,Carnivore,Medium,Crepuscular
-392,Bird,Aerial,Carnivore,Medium,Cathemeral
-393,Bird,Aerial,Carnivore,Large,Diurnal
-394,Bird,Aerial,Carnivore,Large,Nocturnal
-395,Bird,Aerial,Carnivore,Large,Crepuscular
-396,Bird,Aerial,Carnivore,Large,Cathemeral
-397,Bird,Aerial,Carnivore,Very Large,Diurnal
-398,Bird,Aerial,Carnivore,Very Large,Nocturnal
-399,Bird,Aerial,Carnivore,Very Large,Crepuscular
-400,Bird,Aerial,Carnivore,Very Large,Cathemeral
-401,Bird,Aerial,Herbivore,Small,Diurnal
-402,Bird,Aerial,Herbivore,Small,Nocturnal
-403,Bird,Aerial,Herbivore,Small,Crepuscular
-404,Bird,Aerial,Herbivore,Small,Cathemeral
-405,Bird,Aerial,Herbivore,Medium,Diurnal
-406,Bird,Aerial,Herbivore,Medium,Nocturnal
-407,Bird,Aerial,Herbivore,Medium,Crepuscular
-408,Bird,Aerial,Herbivore,Medium,Cathemeral
-409,Bird,Aerial,Herbivore,Large,Diurnal
-410,Bird,Aerial,Herbivore,Large,Nocturnal
-411,Bird,Aerial,Herbivore,Large,Crepuscular
-412,Bird,Aerial,Herbivore,Large,Cathemeral
-413,Bird,Aerial,Herbivore,Very Large,Diurnal
-414,Bird,Aerial,Herbivore,Very Large,Nocturnal
-415,Bird,Aerial,Herbivore,Very Large,Crepuscular
-416,Bird,Aerial,Herbivore,Very Large,Cathemeral
-417,Bird,Aerial,Omnivore,Small,Diurnal
-418,Bird,Aerial,Omnivore,Small,Nocturnal
-419,Bird,Aerial,Omnivore,Small,Crepuscular
-420,Bird,Aerial,Omnivore,Small,Cathemeral
-421,Bird,Aerial,Omnivore,Medium,Diurnal
-422,Bird,Aerial,Omnivore,Medium,Nocturnal
-423,Bird,Aerial,Omnivore,Medium,Crepuscular
-424,Bird,Aerial,Omnivore,Medium,Cathemeral
-425,Bird,Aerial,Omnivore,Large,Diurnal
-426,Bird,Aerial,Omnivore,Large,Nocturnal
-427,Bird,Aerial,Omnivore,Large,Crepuscular
-428,Bird,Aerial,Omnivore,Large,Cathemeral
-429,Bird,Aerial,Omnivore,Very Large,Diurnal
-430,Bird,Aerial,Omnivore,Very Large,Nocturnal
-431,Bird,Aerial,Omnivore,Very Large,Crepuscular
-432,Bird,Aerial,Omnivore,Very Large,Cathemeral
-433,Bird,Aerial,Insectivore,Small,Diurnal
-434,Bird,Aerial,Insectivore,Small,Nocturnal
-435,Bird,Aerial,Insectivore,Small,Crepuscular
-436,Bird,Aerial,Insectivore,Small,Cathemeral
-437,Bird,Aerial,Insectivore,Medium,Diurnal
-438,Bird,Aerial,Insectivore,Medium,Nocturnal
-439,Bird,Aerial,Insectivore,Medium,Crepuscular
-440,Bird,Aerial,Insectivore,Medium,Cathemeral
-441,Bird,Aerial,Insectivore,Large,Diurnal
-442,Bird,Aerial,Insectivore,Large,Nocturnal
-443,Bird,Aerial,Insectivore,Large,Crepuscular
-444,Bird,Aerial,Insectivore,Large,Cathemeral
-445,Bird,Aerial,Insectivore,Very Large,Diurnal
-446,Bird,Aerial,Insectivore,Very Large,Nocturnal
-447,Bird,Aerial,Insectivore,Very Large,Crepuscular
-448,Bird,Aerial,Insectivore,Very Large,Cathemeral
-449,Bird,Semi-aquatic,Carnivore,Small,Diurnal
-450,Bird,Semi-aquatic,Carnivore,Small,Nocturnal
-451,Bird,Semi-aquatic,Carnivore,Small,Crepuscular
-452,Bird,Semi-aquatic,Carnivore,Small,Cathemeral
-453,Bird,Semi-aquatic,Carnivore,Medium,Diurnal
-454,Bird,Semi-aquatic,Carnivore,Medium,Nocturnal
-455,Bird,Semi-aquatic,Carnivore,Medium,Crepuscular
-456,Bird,Semi-aquatic,Carnivore,Medium,Cathemeral
-457,Bird,Semi-aquatic,Carnivore,Large,Diurnal
-458,Bird,Semi-aquatic,Carnivore,Large,Nocturnal
-459,Bird,Semi-aquatic,Carnivore,Large,Crepuscular
-460,Bird,Semi-aquatic,Carnivore,Large,Cathemeral
-461,Bird,Semi-aquatic,Carnivore,Very Large,Diurnal
-462,Bird,Semi-aquatic,Carnivore,Very Large,Nocturnal
-463,Bird,Semi-aquatic,Carnivore,Very Large,Crepuscular
-464,Bird,Semi-aquatic,Carnivore,Very Large,Cathemeral
-465,Bird,Semi-aquatic,Herbivore,Small,Diurnal
-466,Bird,Semi-aquatic,Herbivore,Small,Nocturnal
-467,Bird,Semi-aquatic,Herbivore,Small,Crepuscular
-468,Bird,Semi-aquatic,Herbivore,Small,Cathemeral
-469,Bird,Semi-aquatic,Herbivore,Medium,Diurnal
-470,Bird,Semi-aquatic,Herbivore,Medium,Nocturnal
-471,Bird,Semi-aquatic,Herbivore,Medium,Crepuscular
-472,Bird,Semi-aquatic,Herbivore,Medium,Cathemeral
-473,Bird,Semi-aquatic,Herbivore,Large,Diurnal
-474,Bird,Semi-aquatic,Herbivore,Large,Nocturnal
-475,Bird,Semi-aquatic,Herbivore,Large,Crepuscular
-476,Bird,Semi-aquatic,Herbivore,Large,Cathemeral
-477,Bird,Semi-aquatic,Herbivore,Very Large,Diurnal
-478,Bird,Semi-aquatic,Herbivore,Very Large,Nocturnal
-479,Bird,Semi-aquatic,Herbivore,Very Large,Crepuscular
-480,Bird,Semi-aquatic,Herbivore,Very Large,Cathemeral
-481,Bird,Semi-aquatic,Omnivore,Small,Diurnal
-482,Bird,Semi-aquatic,Omnivore,Small,Nocturnal
-483,Bird,Semi-aquatic,Omnivore,Small,Crepuscular
-484,Bird,Semi-aquatic,Omnivore,Small,Cathemeral
-485,Bird,Semi-aquatic,Omnivore,Medium,Diurnal
-486,Bird,Semi-aquatic,Omnivore,Medium,Nocturnal
-487,Bird,Semi-aquatic,Omnivore,Medium,Crepuscular
-488,Bird,Semi-aquatic,Omnivore,Medium,Cathemeral
-489,Bird,Semi-aquatic,Omnivore,Large,Diurnal
-490,Bird,Semi-aquatic,Omnivore,Large,Nocturnal
-491,Bird,Semi-aquatic,Omnivore,Large,Crepuscular
-492,Bird,Semi-aquatic,Omnivore,Large,Cathemeral
-493,Bird,Semi-aquatic,Omnivore,Very Large,Diurnal
-494,Bird,Semi-aquatic,Omnivore,Very Large,Nocturnal
-495,Bird,Semi-aquatic,Omnivore,Very Large,Crepuscular
-496,Bird,Semi-aquatic,Omnivore,Very Large,Cathemeral
-497,Bird,Semi-aquatic,Insectivore,Small,Diurnal
-498,Bird,Semi-aquatic,Insectivore,Small,Nocturnal
-499,Bird,Semi-aquatic,Insectivore,Small,Crepuscular
-500,Bird,Semi-aquatic,Insectivore,Small,Cathemeral
-501,Bird,Semi-aquatic,Insectivore,Medium,Diurnal
-502,Bird,Semi-aquatic,Insectivore,Medium,Nocturnal
-503,Bird,Semi-aquatic,Insectivore,Medium,Crepuscular
-504,Bird,Semi-aquatic,Insectivore,Medium,Cathemeral
-505,Bird,Semi-aquatic,Insectivore,Large,Diurnal
-506,Bird,Semi-aquatic,Insectivore,Large,Nocturnal
-507,Bird,Semi-aquatic,Insectivore,Large,Crepuscular
-508,Bird,Semi-aquatic,Insectivore,Large,Cathemeral
-509,Bird,Semi-aquatic,Insectivore,Very Large,Diurnal
-510,Bird,Semi-aquatic,Insectivore,Very Large,Nocturnal
-511,Bird,Semi-aquatic,Insectivore,Very Large,Crepuscular
-512,Bird,Semi-aquatic,Insectivore,Very Large,Cathemeral
-513,Reptile,Terrestrial,Carnivore,Small,Diurnal
-514,Reptile,Terrestrial,Carnivore,Small,Nocturnal
-515,Reptile,Terrestrial,Carnivore,Small,Crepuscular
-516,Reptile,Terrestrial,Carnivore,Small,Cathemeral
-517,Reptile,Terrestrial,Carnivore,Medium,Diurnal
-518,Reptile,Terrestrial,Carnivore,Medium,Nocturnal
-519,Reptile,Terrestrial,Carnivore,Medium,Crepuscular
-520,Reptile,Terrestrial,Carnivore,Medium,Cathemeral
-521,Reptile,Terrestrial,Carnivore,Large,Diurnal
-522,Reptile,Terrestrial,Carnivore,Large,Nocturnal
-523,Reptile,Terrestrial,Carnivore,Large,Crepuscular
-524,Reptile,Terrestrial,Carnivore,Large,Cathemeral
-525,Reptile,Terrestrial,Carnivore,Very Large,Diurnal
-526,Reptile,Terrestrial,Carnivore,Very Large,Nocturnal
-527,Reptile,Terrestrial,Carnivore,Very Large,Crepuscular
-528,Reptile,Terrestrial,Carnivore,Very Large,Cathemeral
-529,Reptile,Terrestrial,Herbivore,Small,Diurnal
-530,Reptile,Terrestrial,Herbivore,Small,Nocturnal
-531,Reptile,Terrestrial,Herbivore,Small,Crepuscular
-532,Reptile,Terrestrial,Herbivore,Small,Cathemeral
-533,Reptile,Terrestrial,Herbivore,Medium,Diurnal
-534,Reptile,Terrestrial,Herbivore,Medium,Nocturnal
-535,Reptile,Terrestrial,Herbivore,Medium,Crepuscular
-536,Reptile,Terrestrial,Herbivore,Medium,Cathemeral
-537,Reptile,Terrestrial,Herbivore,Large,Diurnal
-538,Reptile,Terrestrial,Herbivore,Large,Nocturnal
-539,Reptile,Terrestrial,Herbivore,Large,Crepuscular
-540,Reptile,Terrestrial,Herbivore,Large,Cathemeral
-541,Reptile,Terrestrial,Herbivore,Very Large,Diurnal
-542,Reptile,Terrestrial,Herbivore,Very Large,Nocturnal
-543,Reptile,Terrestrial,Herbivore,Very Large,Crepuscular
-544,Reptile,Terrestrial,Herbivore,Very Large,Cathemeral
-545,Reptile,Terrestrial,Omnivore,Small,Diurnal
-546,Reptile,Terrestrial,Omnivore,Small,Nocturnal
-547,Reptile,Terrestrial,Omnivore,Small,Crepuscular
-548,Reptile,Terrestrial,Omnivore,Small,Cathemeral
-549,Reptile,Terrestrial,Omnivore,Medium,Diurnal
-550,Reptile,Terrestrial,Omnivore,Medium,Nocturnal
-551,Reptile,Terrestrial,Omnivore,Medium,Crepuscular
-552,Reptile,Terrestrial,Omnivore,Medium,Cathemeral
-553,Reptile,Terrestrial,Omnivore,Large,Diurnal
-554,Reptile,Terrestrial,Omnivore,Large,Nocturnal
-555,Reptile,Terrestrial,Omnivore,Large,Crepuscular
-556,Reptile,Terrestrial,Omnivore,Large,Cathemeral
-557,Reptile,Terrestrial,Omnivore,Very Large,Diurnal
-558,Reptile,Terrestrial,Omnivore,Very Large,Nocturnal
-559,Reptile,Terrestrial,Omnivore,Very Large,Crepuscular
-560,Reptile,Terrestrial,Omnivore,Very Large,Cathemeral
-561,Reptile,Terrestrial,Insectivore,Small,Diurnal
-562,Reptile,Terrestrial,Insectivore,Small,Nocturnal
-563,Reptile,Terrestrial,Insectivore,Small,Crepuscular
-564,Reptile,Terrestrial,Insectivore,Small,Cathemeral
-565,Reptile,Terrestrial,Insectivore,Medium,Diurnal
-566,Reptile,Terrestrial,Insectivore,Medium,Nocturnal
-567,Reptile,Terrestrial,Insectivore,Medium,Crepuscular
-568,Reptile,Terrestrial,Insectivore,Medium,Cathemeral
-569,Reptile,Terrestrial,Insectivore,Large,Diurnal
-570,Reptile,Terrestrial,Insectivore,Large,Nocturnal
-571,Reptile,Terrestrial,Insectivore,Large,Crepuscular
-572,Reptile,Terrestrial,Insectivore,Large,Cathemeral
-573,Reptile,Terrestrial,Insectivore,Very Large,Diurnal
-574,Reptile,Terrestrial,Insectivore,Very Large,Nocturnal
-575,Reptile,Terrestrial,Insectivore,Very Large,Crepuscular
-576,Reptile,Terrestrial,Insectivore,Very Large,Cathemeral
-577,Reptile,Aquatic,Carnivore,Small,Diurnal
-578,Reptile,Aquatic,Carnivore,Small,Nocturnal
-579,Reptile,Aquatic,Carnivore,Small,Crepuscular
-580,Reptile,Aquatic,Carnivore,Small,Cathemeral
-581,Reptile,Aquatic,Carnivore,Medium,Diurnal
-582,Reptile,Aquatic,Carnivore,Medium,Nocturnal
-583,Reptile,Aquatic,Carnivore,Medium,Crepuscular
-584,Reptile,Aquatic,Carnivore,Medium,Cathemeral
-585,Reptile,Aquatic,Carnivore,Large,Diurnal
-586,Reptile,Aquatic,Carnivore,Large,Nocturnal
-587,Reptile,Aquatic,Carnivore,Large,Crepuscular
-588,Reptile,Aquatic,Carnivore,Large,Cathemeral
-589,Reptile,Aquatic,Carnivore,Very Large,Diurnal
-590,Reptile,Aquatic,Carnivore,Very Large,Nocturnal
-591,Reptile,Aquatic,Carnivore,Very Large,Crepuscular
-592,Reptile,Aquatic,Carnivore,Very Large,Cathemeral
-593,Reptile,Aquatic,Herbivore,Small,Diurnal
-594,Reptile,Aquatic,Herbivore,Small,Nocturnal
-595,Reptile,Aquatic,Herbivore,Small,Crepuscular
-596,Reptile,Aquatic,Herbivore,Small,Cathemeral
-597,Reptile,Aquatic,Herbivore,Medium,Diurnal
-598,Reptile,Aquatic,Herbivore,Medium,Nocturnal
-599,Reptile,Aquatic,Herbivore,Medium,Crepuscular
-600,Reptile,Aquatic,Herbivore,Medium,Cathemeral
-601,Reptile,Aquatic,Herbivore,Large,Diurnal
-602,Reptile,Aquatic,Herbivore,Large,Nocturnal
-603,Reptile,Aquatic,Herbivore,Large,Crepuscular
-604,Reptile,Aquatic,Herbivore,Large,Cathemeral
-605,Reptile,Aquatic,Herbivore,Very Large,Diurnal
-606,Reptile,Aquatic,Herbivore,Very Large,Nocturnal
-607,Reptile,Aquatic,Herbivore,Very Large,Crepuscular
-608,Reptile,Aquatic,Herbivore,Very Large,Cathemeral
-609,Reptile,Aquatic,Omnivore,Small,Diurnal
-610,Reptile,Aquatic,Omnivore,Small,Nocturnal
-611,Reptile,Aquatic,Omnivore,Small,Crepuscular
-612,Reptile,Aquatic,Omnivore,Small,Cathemeral
-613,Reptile,Aquatic,Omnivore,Medium,Diurnal
-614,Reptile,Aquatic,Omnivore,Medium,Nocturnal
-615,Reptile,Aquatic,Omnivore,Medium,Crepuscular
-616,Reptile,Aquatic,Omnivore,Medium,Cathemeral
-617,Reptile,Aquatic,Omnivore,Large,Diurnal
-618,Reptile,Aquatic,Omnivore,Large,Nocturnal
-619,Reptile,Aquatic,Omnivore,Large,Crepuscular
-620,Reptile,Aquatic,Omnivore,Large,Cathemeral
-621,Reptile,Aquatic,Omnivore,Very Large,Diurnal
-622,Reptile,Aquatic,Omnivore,Very Large,Nocturnal
-623,Reptile,Aquatic,Omnivore,Very Large,Crepuscular
-624,Reptile,Aquatic,Omnivore,Very Large,Cathemeral
-625,Reptile,Aquatic,Insectivore,Small,Diurnal
-626,Reptile,Aquatic,Insectivore,Small,Nocturnal
-627,Reptile,Aquatic,Insectivore,Small,Crepuscular
-628,Reptile,Aquatic,Insectivore,Small,Cathemeral
-629,Reptile,Aquatic,Insectivore,Medium,Diurnal
-630,Reptile,Aquatic,Insectivore,Medium,Nocturnal
-631,Reptile,Aquatic,Insectivore,Medium,Crepuscular
-632,Reptile,Aquatic,Insectivore,Medium,Cathemeral
-633,Reptile,Aquatic,Insectivore,Large,Diurnal
-634,Reptile,Aquatic,Insectivore,Large,Nocturnal
-635,Reptile,Aquatic,Insectivore,Large,Crepuscular
-636,Reptile,Aquatic,Insectivore,Large,Cathemeral
-637,Reptile,Aquatic,Insectivore,Very Large,Diurnal
-638,Reptile,Aquatic,Insectivore,Very Large,Nocturnal
-639,Reptile,Aquatic,Insectivore,Very Large,Crepuscular
-640,Reptile,Aquatic,Insectivore,Very Large,Cathemeral
-641,Reptile,Aerial,Carnivore,Small,Diurnal
-642,Reptile,Aerial,Carnivore,Small,Nocturnal
-643,Reptile,Aerial,Carnivore,Small,Crepuscular
-644,Reptile,Aerial,Carnivore,Small,Cathemeral
-645,Reptile,Aerial,Carnivore,Medium,Diurnal
-646,Reptile,Aerial,Carnivore,Medium,Nocturnal
-647,Reptile,Aerial,Carnivore,Medium,Crepuscular
-648,Reptile,Aerial,Carnivore,Medium,Cathemeral
-649,Reptile,Aerial,Carnivore,Large,Diurnal
-650,Reptile,Aerial,Carnivore,Large,Nocturnal
-651,Reptile,Aerial,Carnivore,Large,Crepuscular
-652,Reptile,Aerial,Carnivore,Large,Cathemeral
-653,Reptile,Aerial,Carnivore,Very Large,Diurnal
-654,Reptile,Aerial,Carnivore,Very Large,Nocturnal
-655,Reptile,Aerial,Carnivore,Very Large,Crepuscular
-656,Reptile,Aerial,Carnivore,Very Large,Cathemeral
-657,Reptile,Aerial,Herbivore,Small,Diurnal
-658,Reptile,Aerial,Herbivore,Small,Nocturnal
-659,Reptile,Aerial,Herbivore,Small,Crepuscular
-660,Reptile,Aerial,Herbivore,Small,Cathemeral
-661,Reptile,Aerial,Herbivore,Medium,Diurnal
-662,Reptile,Aerial,Herbivore,Medium,Nocturnal
-663,Reptile,Aerial,Herbivore,Medium,Crepuscular
-664,Reptile,Aerial,Herbivore,Medium,Cathemeral
-665,Reptile,Aerial,Herbivore,Large,Diurnal
-666,Reptile,Aerial,Herbivore,Large,Nocturnal
-667,Reptile,Aerial,Herbivore,Large,Crepuscular
-668,Reptile,Aerial,Herbivore,Large,Cathemeral
-669,Reptile,Aerial,Herbivore,Very Large,Diurnal
-670,Reptile,Aerial,Herbivore,Very Large,Nocturnal
-671,Reptile,Aerial,Herbivore,Very Large,Crepuscular
-672,Reptile,Aerial,Herbivore,Very Large,Cathemeral
-673,Reptile,Aerial,Omnivore,Small,Diurnal
-674,Reptile,Aerial,Omnivore,Small,Nocturnal
-675,Reptile,Aerial,Omnivore,Small,Crepuscular
-676,Reptile,Aerial,Omnivore,Small,Cathemeral
-677,Reptile,Aerial,Omnivore,Medium,Diurnal
-678,Reptile,Aerial,Omnivore,Medium,Nocturnal
-679,Reptile,Aerial,Omnivore,Medium,Crepuscular
-680,Reptile,Aerial,Omnivore,Medium,Cathemeral
-681,Reptile,Aerial,Omnivore,Large,Diurnal
-682,Reptile,Aerial,Omnivore,Large,Nocturnal
-683,Reptile,Aerial,Omnivore,Large,Crepuscular
-684,Reptile,Aerial,Omnivore,Large,Cathemeral
-685,Reptile,Aerial,Omnivore,Very Large,Diurnal
-686,Reptile,Aerial,Omnivore,Very Large,Nocturnal
-687,Reptile,Aerial,Omnivore,Very Large,Crepuscular
-688,Reptile,Aerial,Omnivore,Very Large,Cathemeral
-689,Reptile,Aerial,Insectivore,Small,Diurnal
-690,Reptile,Aerial,Insectivore,Small,Nocturnal
-691,Reptile,Aerial,Insectivore,Small,Crepuscular
-692,Reptile,Aerial,Insectivore,Small,Cathemeral
-693,Reptile,Aerial,Insectivore,Medium,Diurnal
-694,Reptile,Aerial,Insectivore,Medium,Nocturnal
-695,Reptile,Aerial,Insectivore,Medium,Crepuscular
-696,Reptile,Aerial,Insectivore,Medium,Cathemeral
-697,Reptile,Aerial,Insectivore,Large,Diurnal
-698,Reptile,Aerial,Insectivore,Large,Nocturnal
-699,Reptile,Aerial,Insectivore,Large,Crepuscular
-700,Reptile,Aerial,Insectivore,Large,Cathemeral
-701,Reptile,Aerial,Insectivore,Very Large,Diurnal
-702,Reptile,Aerial,Insectivore,Very Large,Nocturnal
-703,Reptile,Aerial,Insectivore,Very Large,Crepuscular
-704,Reptile,Aerial,Insectivore,Very Large,Cathemeral
-705,Reptile,Semi-aquatic,Carnivore,Small,Diurnal
-706,Reptile,Semi-aquatic,Carnivore,Small,Nocturnal
-707,Reptile,Semi-aquatic,Carnivore,Small,Crepuscular
-708,Reptile,Semi-aquatic,Carnivore,Small,Cathemeral
-709,Reptile,Semi-aquatic,Carnivore,Medium,Diurnal
-710,Reptile,Semi-aquatic,Carnivore,Medium,Nocturnal
-711,Reptile,Semi-aquatic,Carnivore,Medium,Crepuscular
-712,Reptile,Semi-aquatic,Carnivore,Medium,Cathemeral
-713,Reptile,Semi-aquatic,Carnivore,Large,Diurnal
-714,Reptile,Semi-aquatic,Carnivore,Large,Nocturnal
-715,Reptile,Semi-aquatic,Carnivore,Large,Crepuscular
-716,Reptile,Semi-aquatic,Carnivore,Large,Cathemeral
-717,Reptile,Semi-aquatic,Carnivore,Very Large,Diurnal
-718,Reptile,Semi-aquatic,Carnivore,Very Large,Nocturnal
-719,Reptile,Semi-aquatic,Carnivore,Very Large,Crepuscular
-720,Reptile,Semi-aquatic,Carnivore,Very Large,Cathemeral
-721,Reptile,Semi-aquatic,Herbivore,Small,Diurnal
-722,Reptile,Semi-aquatic,Herbivore,Small,Nocturnal
-723,Reptile,Semi-aquatic,Herbivore,Small,Crepuscular
-724,Reptile,Semi-aquatic,Herbivore,Small,Cathemeral
-725,Reptile,Semi-aquatic,Herbivore,Medium,Diurnal
-726,Reptile,Semi-aquatic,Herbivore,Medium,Nocturnal
-727,Reptile,Semi-aquatic,Herbivore,Medium,Crepuscular
-728,Reptile,Semi-aquatic,Herbivore,Medium,Cathemeral
-729,Reptile,Semi-aquatic,Herbivore,Large,Diurnal
-730,Reptile,Semi-aquatic,Herbivore,Large,Nocturnal
-731,Reptile,Semi-aquatic,Herbivore,Large,Crepuscular
-732,Reptile,Semi-aquatic,Herbivore,Large,Cathemeral
-733,Reptile,Semi-aquatic,Herbivore,Very Large,Diurnal
-734,Reptile,Semi-aquatic,Herbivore,Very Large,Nocturnal
-735,Reptile,Semi-aquatic,Herbivore,Very Large,Crepuscular
-736,Reptile,Semi-aquatic,Herbivore,Very Large,Cathemeral
-737,Reptile,Semi-aquatic,Omnivore,Small,Diurnal
-738,Reptile,Semi-aquatic,Omnivore,Small,Nocturnal
-739,Reptile,Semi-aquatic,Omnivore,Small,Crepuscular
-740,Reptile,Semi-aquatic,Omnivore,Small,Cathemeral
-741,Reptile,Semi-aquatic,Omnivore,Medium,Diurnal
-742,Reptile,Semi-aquatic,Omnivore,Medium,Nocturnal
-743,Reptile,Semi-aquatic,Omnivore,Medium,Crepuscular
-744,Reptile,Semi-aquatic,Omnivore,Medium,Cathemeral
-745,Reptile,Semi-aquatic,Omnivore,Large,Diurnal
-746,Reptile,Semi-aquatic,Omnivore,Large,Nocturnal
-747,Reptile,Semi-aquatic,Omnivore,Large,Crepuscular
-748,Reptile,Semi-aquatic,Omnivore,Large,Cathemeral
-749,Reptile,Semi-aquatic,Omnivore,Very Large,Diurnal
-750,Reptile,Semi-aquatic,Omnivore,Very Large,Nocturnal
-751,Reptile,Semi-aquatic,Omnivore,Very Large,Crepuscular
-752,Reptile,Semi-aquatic,Omnivore,Very Large,Cathemeral
-753,Reptile,Semi-aquatic,Insectivore,Small,Diurnal
-754,Reptile,Semi-aquatic,Insectivore,Small,Nocturnal
-755,Reptile,Semi-aquatic,Insectivore,Small,Crepuscular
-756,Reptile,Semi-aquatic,Insectivore,Small,Cathemeral
-757,Reptile,Semi-aquatic,Insectivore,Medium,Diurnal
-758,Reptile,Semi-aquatic,Insectivore,Medium,Nocturnal
-759,Reptile,Semi-aquatic,Insectivore,Medium,Crepuscular
-760,Reptile,Semi-aquatic,Insectivore,Medium,Cathemeral
-761,Reptile,Semi-aquatic,Insectivore,Large,Diurnal
-762,Reptile,Semi-aquatic,Insectivore,Large,Nocturnal
-763,Reptile,Semi-aquatic,Insectivore,Large,Crepuscular
-764,Reptile,Semi-aquatic,Insectivore,Large,Cathemeral
-765,Reptile,Semi-aquatic,Insectivore,Very Large,Diurnal
-766,Reptile,Semi-aquatic,Insectivore,Very Large,Nocturnal
-767,Reptile,Semi-aquatic,Insectivore,Very Large,Crepuscular
-768,Reptile,Semi-aquatic,Insectivore,Very Large,Cathemeral
-769,Fish,Terrestrial,Carnivore,Small,Diurnal
-770,Fish,Terrestrial,Carnivore,Small,Nocturnal
-771,Fish,Terrestrial,Carnivore,Small,Crepuscular
-772,Fish,Terrestrial,Carnivore,Small,Cathemeral
-773,Fish,Terrestrial,Carnivore,Medium,Diurnal
-774,Fish,Terrestrial,Carnivore,Medium,Nocturnal
-775,Fish,Terrestrial,Carnivore,Medium,Crepuscular
-776,Fish,Terrestrial,Carnivore,Medium,Cathemeral
-777,Fish,Terrestrial,Carnivore,Large,Diurnal
-778,Fish,Terrestrial,Carnivore,Large,Nocturnal
-779,Fish,Terrestrial,Carnivore,Large,Crepuscular
-780,Fish,Terrestrial,Carnivore,Large,Cathemeral
-781,Fish,Terrestrial,Carnivore,Very Large,Diurnal
-782,Fish,Terrestrial,Carnivore,Very Large,Nocturnal
-783,Fish,Terrestrial,Carnivore,Very Large,Crepuscular
-784,Fish,Terrestrial,Carnivore,Very Large,Cathemeral
-785,Fish,Terrestrial,Herbivore,Small,Diurnal
-786,Fish,Terrestrial,Herbivore,Small,Nocturnal
-787,Fish,Terrestrial,Herbivore,Small,Crepuscular
-788,Fish,Terrestrial,Herbivore,Small,Cathemeral
-789,Fish,Terrestrial,Herbivore,Medium,Diurnal
-790,Fish,Terrestrial,Herbivore,Medium,Nocturnal
-791,Fish,Terrestrial,Herbivore,Medium,Crepuscular
-792,Fish,Terrestrial,Herbivore,Medium,Cathemeral
-793,Fish,Terrestrial,Herbivore,Large,Diurnal
-794,Fish,Terrestrial,Herbivore,Large,Nocturnal
-795,Fish,Terrestrial,Herbivore,Large,Crepuscular
-796,Fish,Terrestrial,Herbivore,Large,Cathemeral
-797,Fish,Terrestrial,Herbivore,Very Large,Diurnal
-798,Fish,Terrestrial,Herbivore,Very Large,Nocturnal
-799,Fish,Terrestrial,Herbivore,Very Large,Crepuscular
-800,Fish,Terrestrial,Herbivore,Very Large,Cathemeral
-801,Fish,Terrestrial,Omnivore,Small,Diurnal
-802,Fish,Terrestrial,Omnivore,Small,Nocturnal
-803,Fish,Terrestrial,Omnivore,Small,Crepuscular
-804,Fish,Terrestrial,Omnivore,Small,Cathemeral
-805,Fish,Terrestrial,Omnivore,Medium,Diurnal
-806,Fish,Terrestrial,Omnivore,Medium,Nocturnal
-807,Fish,Terrestrial,Omnivore,Medium,Crepuscular
-808,Fish,Terrestrial,Omnivore,Medium,Cathemeral
-809,Fish,Terrestrial,Omnivore,Large,Diurnal
-810,Fish,Terrestrial,Omnivore,Large,Nocturnal
-811,Fish,Terrestrial,Omnivore,Large,Crepuscular
-812,Fish,Terrestrial,Omnivore,Large,Cathemeral
-813,Fish,Terrestrial,Omnivore,Very Large,Diurnal
-814,Fish,Terrestrial,Omnivore,Very Large,Nocturnal
-815,Fish,Terrestrial,Omnivore,Very Large,Crepuscular
-816,Fish,Terrestrial,Omnivore,Very Large,Cathemeral
-817,Fish,Terrestrial,Insectivore,Small,Diurnal
-818,Fish,Terrestrial,Insectivore,Small,Nocturnal
-819,Fish,Terrestrial,Insectivore,Small,Crepuscular
-820,Fish,Terrestrial,Insectivore,Small,Cathemeral
-821,Fish,Terrestrial,Insectivore,Medium,Diurnal
-822,Fish,Terrestrial,Insectivore,Medium,Nocturnal
-823,Fish,Terrestrial,Insectivore,Medium,Crepuscular
-824,Fish,Terrestrial,Insectivore,Medium,Cathemeral
-825,Fish,Terrestrial,Insectivore,Large,Diurnal
-826,Fish,Terrestrial,Insectivore,Large,Nocturnal
-827,Fish,Terrestrial,Insectivore,Large,Crepuscular
-828,Fish,Terrestrial,Insectivore,Large,Cathemeral
-829,Fish,Terrestrial,Insectivore,Very Large,Diurnal
-830,Fish,Terrestrial,Insectivore,Very Large,Nocturnal
-831,Fish,Terrestrial,Insectivore,Very Large,Crepuscular
-832,Fish,Terrestrial,Insectivore,Very Large,Cathemeral
-833,Fish,Aquatic,Carnivore,Small,Diurnal
-834,Fish,Aquatic,Carnivore,Small,Nocturnal
-835,Fish,Aquatic,Carnivore,Small,Crepuscular
-836,Fish,Aquatic,Carnivore,Small,Cathemeral
-837,Fish,Aquatic,Carnivore,Medium,Diurnal
-838,Fish,Aquatic,Carnivore,Medium,Nocturnal
-839,Fish,Aquatic,Carnivore,Medium,Crepuscular
-840,Fish,Aquatic,Carnivore,Medium,Cathemeral
-841,Fish,Aquatic,Carnivore,Large,Diurnal
-842,Fish,Aquatic,Carnivore,Large,Nocturnal
-843,Fish,Aquatic,Carnivore,Large,Crepuscular
-844,Fish,Aquatic,Carnivore,Large,Cathemeral
-845,Fish,Aquatic,Carnivore,Very Large,Diurnal
-846,Fish,Aquatic,Carnivore,Very Large,Nocturnal
-847,Fish,Aquatic,Carnivore,Very Large,Crepuscular
-848,Fish,Aquatic,Carnivore,Very Large,Cathemeral
-849,Fish,Aquatic,Herbivore,Small,Diurnal
-850,Fish,Aquatic,Herbivore,Small,Nocturnal
-851,Fish,Aquatic,Herbivore,Small,Crepuscular
-852,Fish,Aquatic,Herbivore,Small,Cathemeral
-853,Fish,Aquatic,Herbivore,Medium,Diurnal
-854,Fish,Aquatic,Herbivore,Medium,Nocturnal
-855,Fish,Aquatic,Herbivore,Medium,Crepuscular
-856,Fish,Aquatic,Herbivore,Medium,Cathemeral
-857,Fish,Aquatic,Herbivore,Large,Diurnal
-858,Fish,Aquatic,Herbivore,Large,Nocturnal
-859,Fish,Aquatic,Herbivore,Large,Crepuscular
-860,Fish,Aquatic,Herbivore,Large,Cathemeral
-861,Fish,Aquatic,Herbivore,Very Large,Diurnal
-862,Fish,Aquatic,Herbivore,Very Large,Nocturnal
-863,Fish,Aquatic,Herbivore,Very Large,Crepuscular
-864,Fish,Aquatic,Herbivore,Very Large,Cathemeral
-865,Fish,Aquatic,Omnivore,Small,Diurnal
-866,Fish,Aquatic,Omnivore,Small,Nocturnal
-867,Fish,Aquatic,Omnivore,Small,Crepuscular
-868,Fish,Aquatic,Omnivore,Small,Cathemeral
-869,Fish,Aquatic,Omnivore,Medium,Diurnal
-870,Fish,Aquatic,Omnivore,Medium,Nocturnal
-871,Fish,Aquatic,Omnivore,Medium,Crepuscular
-872,Fish,Aquatic,Omnivore,Medium,Cathemeral
-873,Fish,Aquatic,Omnivore,Large,Diurnal
-874,Fish,Aquatic,Omnivore,Large,Nocturnal
-875,Fish,Aquatic,Omnivore,Large,Crepuscular
-876,Fish,Aquatic,Omnivore,Large,Cathemeral
-877,Fish,Aquatic,Omnivore,Very Large,Diurnal
-878,Fish,Aquatic,Omnivore,Very Large,Nocturnal
-879,Fish,Aquatic,Omnivore,Very Large,Crepuscular
-880,Fish,Aquatic,Omnivore,Very Large,Cathemeral
-881,Fish,Aquatic,Insectivore,Small,Diurnal
-882,Fish,Aquatic,Insectivore,Small,Nocturnal
-883,Fish,Aquatic,Insectivore,Small,Crepuscular
-884,Fish,Aquatic,Insectivore,Small,Cathemeral
-885,Fish,Aquatic,Insectivore,Medium,Diurnal
-886,Fish,Aquatic,Insectivore,Medium,Nocturnal
-887,Fish,Aquatic,Insectivore,Medium,Crepuscular
-888,Fish,Aquatic,Insectivore,Medium,Cathemeral
-889,Fish,Aquatic,Insectivore,Large,Diurnal
-890,Fish,Aquatic,Insectivore,Large,Nocturnal
-891,Fish,Aquatic,Insectivore,Large,Crepuscular
-892,Fish,Aquatic,Insectivore,Large,Cathemeral
-893,Fish,Aquatic,Insectivore,Very Large,Diurnal
-894,Fish,Aquatic,Insectivore,Very Large,Nocturnal
-895,Fish,Aquatic,Insectivore,Very Large,Crepuscular
-896,Fish,Aquatic,Insectivore,Very Large,Cathemeral
-897,Fish,Aerial,Carnivore,Small,Diurnal
-898,Fish,Aerial,Carnivore,Small,Nocturnal
-899,Fish,Aerial,Carnivore,Small,Crepuscular
-900,Fish,Aerial,Carnivore,Small,Cathemeral
-901,Fish,Aerial,Carnivore,Medium,Diurnal
-902,Fish,Aerial,Carnivore,Medium,Nocturnal
-903,Fish,Aerial,Carnivore,Medium,Crepuscular
-904,Fish,Aerial,Carnivore,Medium,Cathemeral
-905,Fish,Aerial,Carnivore,Large,Diurnal
-906,Fish,Aerial,Carnivore,Large,Nocturnal
-907,Fish,Aerial,Carnivore,Large,Crepuscular
-908,Fish,Aerial,Carnivore,Large,Cathemeral
-909,Fish,Aerial,Carnivore,Very Large,Diurnal
-910,Fish,Aerial,Carnivore,Very Large,Nocturnal
-911,Fish,Aerial,Carnivore,Very Large,Crepuscular
-912,Fish,Aerial,Carnivore,Very Large,Cathemeral
-913,Fish,Aerial,Herbivore,Small,Diurnal
-914,Fish,Aerial,Herbivore,Small,Nocturnal
-915,Fish,Aerial,Herbivore,Small,Crepuscular
-916,Fish,Aerial,Herbivore,Small,Cathemeral
-917,Fish,Aerial,Herbivore,Medium,Diurnal
-918,Fish,Aerial,Herbivore,Medium,Nocturnal
-919,Fish,Aerial,Herbivore,Medium,Crepuscular
-920,Fish,Aerial,Herbivore,Medium,Cathemeral
-921,Fish,Aerial,Herbivore,Large,Diurnal
-922,Fish,Aerial,Herbivore,Large,Nocturnal
-923,Fish,Aerial,Herbivore,Large,Crepuscular
-924,Fish,Aerial,Herbivore,Large,Cathemeral
-925,Fish,Aerial,Herbivore,Very Large,Diurnal
-926,Fish,Aerial,Herbivore,Very Large,Nocturnal
-927,Fish,Aerial,Herbivore,Very Large,Crepuscular
-928,Fish,Aerial,Herbivore,Very Large,Cathemeral
-929,Fish,Aerial,Omnivore,Small,Diurnal
-930,Fish,Aerial,Omnivore,Small,Nocturnal
-931,Fish,Aerial,Omnivore,Small,Crepuscular
-932,Fish,Aerial,Omnivore,Small,Cathemeral
-933,Fish,Aerial,Omnivore,Medium,Diurnal
-934,Fish,Aerial,Omnivore,Medium,Nocturnal
-935,Fish,Aerial,Omnivore,Medium,Crepuscular
-936,Fish,Aerial,Omnivore,Medium,Cathemeral
-937,Fish,Aerial,Omnivore,Large,Diurnal
-938,Fish,Aerial,Omnivore,Large,Nocturnal
-939,Fish,Aerial,Omnivore,Large,Crepuscular
-940,Fish,Aerial,Omnivore,Large,Cathemeral
-941,Fish,Aerial,Omnivore,Very Large,Diurnal
-942,Fish,Aerial,Omnivore,Very Large,Nocturnal
-943,Fish,Aerial,Omnivore,Very Large,Crepuscular
-944,Fish,Aerial,Omnivore,Very Large,Cathemeral
-945,Fish,Aerial,Insectivore,Small,Diurnal
-946,Fish,Aerial,Insectivore,Small,Nocturnal
-947,Fish,Aerial,Insectivore,Small,Crepuscular
-948,Fish,Aerial,Insectivore,Small,Cathemeral
-949,Fish,Aerial,Insectivore,Medium,Diurnal
-950,Fish,Aerial,Insectivore,Medium,Nocturnal
-951,Fish,Aerial,Insectivore,Medium,Crepuscular
-952,Fish,Aerial,Insectivore,Medium,Cathemeral
-953,Fish,Aerial,Insectivore,Large,Diurnal
-954,Fish,Aerial,Insectivore,Large,Nocturnal
-955,Fish,Aerial,Insectivore,Large,Crepuscular
-956,Fish,Aerial,Insectivore,Large,Cathemeral
-957,Fish,Aerial,Insectivore,Very Large,Diurnal
-958,Fish,Aerial,Insectivore,Very Large,Nocturnal
-959,Fish,Aerial,Insectivore,Very Large,Crepuscular
-960,Fish,Aerial,Insectivore,Very Large,Cathemeral
-961,Fish,Semi-aquatic,Carnivore,Small,Diurnal
-962,Fish,Semi-aquatic,Carnivore,Small,Nocturnal
-963,Fish,Semi-aquatic,Carnivore,Small,Crepuscular
-964,Fish,Semi-aquatic,Carnivore,Small,Cathemeral
-965,Fish,Semi-aquatic,Carnivore,Medium,Diurnal
-966,Fish,Semi-aquatic,Carnivore,Medium,Nocturnal
-967,Fish,Semi-aquatic,Carnivore,Medium,Crepuscular
-968,Fish,Semi-aquatic,Carnivore,Medium,Cathemeral
-969,Fish,Semi-aquatic,Carnivore,Large,Diurnal
-970,Fish,Semi-aquatic,Carnivore,Large,Nocturnal
-971,Fish,Semi-aquatic,Carnivore,Large,Crepuscular
-972,Fish,Semi-aquatic,Carnivore,Large,Cathemeral
-973,Fish,Semi-aquatic,Carnivore,Very Large,Diurnal
-974,Fish,Semi-aquatic,Carnivore,Very Large,Nocturnal
-975,Fish,Semi-aquatic,Carnivore,Very Large,Crepuscular
-976,Fish,Semi-aquatic,Carnivore,Very Large,Cathemeral
-977,Fish,Semi-aquatic,Herbivore,Small,Diurnal
-978,Fish,Semi-aquatic,Herbivore,Small,Nocturnal
-979,Fish,Semi-aquatic,Herbivore,Small,Crepuscular
-980,Fish,Semi-aquatic,Herbivore,Small,Cathemeral
-981,Fish,Semi-aquatic,Herbivore,Medium,Diurnal
-982,Fish,Semi-aquatic,Herbivore,Medium,Nocturnal
-983,Fish,Semi-aquatic,Herbivore,Medium,Crepuscular
-984,Fish,Semi-aquatic,Herbivore,Medium,Cathemeral
-985,Fish,Semi-aquatic,Herbivore,Large,Diurnal
-986,Fish,Semi-aquatic,Herbivore,Large,Nocturnal
-987,Fish,Semi-aquatic,Herbivore,Large,Crepuscular
-988,Fish,Semi-aquatic,Herbivore,Large,Cathemeral
-989,Fish,Semi-aquatic,Herbivore,Very Large,Diurnal
-990,Fish,Semi-aquatic,Herbivore,Very Large,Nocturnal
-991,Fish,Semi-aquatic,Herbivore,Very Large,Crepuscular
-992,Fish,Semi-aquatic,Herbivore,Very Large,Cathemeral
-993,Fish,Semi-aquatic,Omnivore,Small,Diurnal
-994,Fish,Semi-aquatic,Omnivore,Small,Nocturnal
-995,Fish,Semi-aquatic,Omnivore,Small,Crepuscular
-996,Fish,Semi-aquatic,Omnivore,Small,Cathemeral
-997,Fish,Semi-aquatic,Omnivore,Medium,Diurnal
-998,Fish,Semi-aquatic,Omnivore,Medium,Nocturnal
-999,Fish,Semi-aquatic,Omnivore,Medium,Crepuscular
-1000,Fish,Semi-aquatic,Omnivore,Medium,Cathemeral
-1001,Fish,Semi-aquatic,Omnivore,Large,Diurnal
-1002,Fish,Semi-aquatic,Omnivore,Large,Nocturnal
-1003,Fish,Semi-aquatic,Omnivore,Large,Crepuscular
-1004,Fish,Semi-aquatic,Omnivore,Large,Cathemeral
-1005,Fish,Semi-aquatic,Omnivore,Very Large,Diurnal
-1006,Fish,Semi-aquatic,Omnivore,Very Large,Nocturnal
-1007,Fish,Semi-aquatic,Omnivore,Very Large,Crepuscular
-1008,Fish,Semi-aquatic,Omnivore,Very Large,Cathemeral
-1009,Fish,Semi-aquatic,Insectivore,Small,Diurnal
-1010,Fish,Semi-aquatic,Insectivore,Small,Nocturnal
-1011,Fish,Semi-aquatic,Insectivore,Small,Crepuscular
-1012,Fish,Semi-aquatic,Insectivore,Small,Cathemeral
-1013,Fish,Semi-aquatic,Insectivore,Medium,Diurnal
-1014,Fish,Semi-aquatic,Insectivore,Medium,Nocturnal
-1015,Fish,Semi-aquatic,Insectivore,Medium,Crepuscular
-1016,Fish,Semi-aquatic,Insectivore,Medium,Cathemeral
-1017,Fish,Semi-aquatic,Insectivore,Large,Diurnal
-1018,Fish,Semi-aquatic,Insectivore,Large,Nocturnal
-1019,Fish,Semi-aquatic,Insectivore,Large,Crepuscular
-1020,Fish,Semi-aquatic,Insectivore,Large,Cathemeral
-1021,Fish,Semi-aquatic,Insectivore,Very Large,Diurnal
-1022,Fish,Semi-aquatic,Insectivore,Very Large,Nocturnal
-1023,Fish,Semi-aquatic,Insectivore,Very Large,Crepuscular
-1024,Fish,Semi-aquatic,Insectivore,Very Large,Cathemeral
+object_id,taxonomic_class,habitat,diet,body_size,activity_pattern,dataset_split
+1,Mammal,Terrestrial,Carnivore,Small,Diurnal,level1
+2,Mammal,Terrestrial,Carnivore,Small,Nocturnal,level1
+3,Mammal,Terrestrial,Carnivore,Small,Crepuscular,level1
+4,Mammal,Terrestrial,Carnivore,Small,Cathemeral,level1
+5,Mammal,Terrestrial,Carnivore,Medium,Diurnal,level1
+6,Mammal,Terrestrial,Carnivore,Medium,Nocturnal,level1
+7,Mammal,Terrestrial,Carnivore,Medium,Crepuscular,level1
+8,Mammal,Terrestrial,Carnivore,Medium,Cathemeral,level1
+9,Mammal,Terrestrial,Carnivore,Large,Diurnal,level1
+10,Mammal,Terrestrial,Carnivore,Large,Nocturnal,level1
+11,Mammal,Terrestrial,Carnivore,Large,Crepuscular,level1
+12,Mammal,Terrestrial,Carnivore,Large,Cathemeral,level1
+13,Mammal,Terrestrial,Carnivore,Very Large,Diurnal,level1
+14,Mammal,Terrestrial,Carnivore,Very Large,Nocturnal,level1
+15,Mammal,Terrestrial,Carnivore,Very Large,Crepuscular,level1
+16,Mammal,Terrestrial,Carnivore,Very Large,Cathemeral,level1
+17,Mammal,Terrestrial,Herbivore,Small,Diurnal,level1
+18,Mammal,Terrestrial,Herbivore,Small,Nocturnal,level1
+19,Mammal,Terrestrial,Herbivore,Small,Crepuscular,level1
+20,Mammal,Terrestrial,Herbivore,Small,Cathemeral,level1
+21,Mammal,Terrestrial,Herbivore,Medium,Diurnal,level1
+22,Mammal,Terrestrial,Herbivore,Medium,Nocturnal,level1
+23,Mammal,Terrestrial,Herbivore,Medium,Crepuscular,level1
+24,Mammal,Terrestrial,Herbivore,Medium,Cathemeral,level1
+25,Mammal,Terrestrial,Herbivore,Large,Diurnal,level1
+26,Mammal,Terrestrial,Herbivore,Large,Nocturnal,level1
+27,Mammal,Terrestrial,Herbivore,Large,Crepuscular,level1
+28,Mammal,Terrestrial,Herbivore,Large,Cathemeral,level1
+29,Mammal,Terrestrial,Herbivore,Very Large,Diurnal,level1
+30,Mammal,Terrestrial,Herbivore,Very Large,Nocturnal,level1
+31,Mammal,Terrestrial,Herbivore,Very Large,Crepuscular,level1
+32,Mammal,Terrestrial,Herbivore,Very Large,Cathemeral,level1
+33,Mammal,Terrestrial,Omnivore,Small,Diurnal,level1
+34,Mammal,Terrestrial,Omnivore,Small,Nocturnal,level1
+35,Mammal,Terrestrial,Omnivore,Small,Crepuscular,level1
+36,Mammal,Terrestrial,Omnivore,Small,Cathemeral,level1
+37,Mammal,Terrestrial,Omnivore,Medium,Diurnal,level1
+38,Mammal,Terrestrial,Omnivore,Medium,Nocturnal,level1
+39,Mammal,Terrestrial,Omnivore,Medium,Crepuscular,level1
+40,Mammal,Terrestrial,Omnivore,Medium,Cathemeral,level1
+41,Mammal,Terrestrial,Omnivore,Large,Diurnal,level1
+42,Mammal,Terrestrial,Omnivore,Large,Nocturnal,level1
+43,Mammal,Terrestrial,Omnivore,Large,Crepuscular,level1
+44,Mammal,Terrestrial,Omnivore,Large,Cathemeral,level1
+45,Mammal,Terrestrial,Omnivore,Very Large,Diurnal,level1
+46,Mammal,Terrestrial,Omnivore,Very Large,Nocturnal,level1
+47,Mammal,Terrestrial,Omnivore,Very Large,Crepuscular,level1
+48,Mammal,Terrestrial,Omnivore,Very Large,Cathemeral,level1
+49,Mammal,Terrestrial,Insectivore,Small,Diurnal,level1
+50,Mammal,Terrestrial,Insectivore,Small,Nocturnal,level1
+51,Mammal,Terrestrial,Insectivore,Small,Crepuscular,level1
+52,Mammal,Terrestrial,Insectivore,Small,Cathemeral,level1
+53,Mammal,Terrestrial,Insectivore,Medium,Diurnal,level1
+54,Mammal,Terrestrial,Insectivore,Medium,Nocturnal,level1
+55,Mammal,Terrestrial,Insectivore,Medium,Crepuscular,level1
+56,Mammal,Terrestrial,Insectivore,Medium,Cathemeral,level1
+57,Mammal,Terrestrial,Insectivore,Large,Diurnal,level1
+58,Mammal,Terrestrial,Insectivore,Large,Nocturnal,level1
+59,Mammal,Terrestrial,Insectivore,Large,Crepuscular,level1
+60,Mammal,Terrestrial,Insectivore,Large,Cathemeral,level1
+61,Mammal,Terrestrial,Insectivore,Very Large,Diurnal,level1
+62,Mammal,Terrestrial,Insectivore,Very Large,Nocturnal,level1
+63,Mammal,Terrestrial,Insectivore,Very Large,Crepuscular,level1
+64,Mammal,Terrestrial,Insectivore,Very Large,Cathemeral,level1
+65,Mammal,Aquatic,Carnivore,Small,Diurnal,level1
+66,Mammal,Aquatic,Carnivore,Small,Nocturnal,level1
+67,Mammal,Aquatic,Carnivore,Small,Crepuscular,level1
+68,Mammal,Aquatic,Carnivore,Small,Cathemeral,level1
+69,Mammal,Aquatic,Carnivore,Medium,Diurnal,level1
+70,Mammal,Aquatic,Carnivore,Medium,Nocturnal,level1
+71,Mammal,Aquatic,Carnivore,Medium,Crepuscular,level1
+72,Mammal,Aquatic,Carnivore,Medium,Cathemeral,level1
+73,Mammal,Aquatic,Carnivore,Large,Diurnal,level1
+74,Mammal,Aquatic,Carnivore,Large,Nocturnal,level1
+75,Mammal,Aquatic,Carnivore,Large,Crepuscular,level1
+76,Mammal,Aquatic,Carnivore,Large,Cathemeral,level1
+77,Mammal,Aquatic,Carnivore,Very Large,Diurnal,level1
+78,Mammal,Aquatic,Carnivore,Very Large,Nocturnal,level1
+79,Mammal,Aquatic,Carnivore,Very Large,Crepuscular,level1
+80,Mammal,Aquatic,Carnivore,Very Large,Cathemeral,level1
+81,Mammal,Aquatic,Herbivore,Small,Diurnal,level1
+82,Mammal,Aquatic,Herbivore,Small,Nocturnal,level1
+83,Mammal,Aquatic,Herbivore,Small,Crepuscular,level1
+84,Mammal,Aquatic,Herbivore,Small,Cathemeral,level1
+85,Mammal,Aquatic,Herbivore,Medium,Diurnal,level1
+86,Mammal,Aquatic,Herbivore,Medium,Nocturnal,level1
+87,Mammal,Aquatic,Herbivore,Medium,Crepuscular,level1
+88,Mammal,Aquatic,Herbivore,Medium,Cathemeral,level1
+89,Mammal,Aquatic,Herbivore,Large,Diurnal,level1
+90,Mammal,Aquatic,Herbivore,Large,Nocturnal,level1
+91,Mammal,Aquatic,Herbivore,Large,Crepuscular,level1
+92,Mammal,Aquatic,Herbivore,Large,Cathemeral,level1
+93,Mammal,Aquatic,Herbivore,Very Large,Diurnal,level1
+94,Mammal,Aquatic,Herbivore,Very Large,Nocturnal,level1
+95,Mammal,Aquatic,Herbivore,Very Large,Crepuscular,level1
+96,Mammal,Aquatic,Herbivore,Very Large,Cathemeral,level1
+97,Mammal,Aquatic,Omnivore,Small,Diurnal,level1
+98,Mammal,Aquatic,Omnivore,Small,Nocturnal,level1
+99,Mammal,Aquatic,Omnivore,Small,Crepuscular,level1
+100,Mammal,Aquatic,Omnivore,Small,Cathemeral,level1
+101,Mammal,Aquatic,Omnivore,Medium,Diurnal,level1
+102,Mammal,Aquatic,Omnivore,Medium,Nocturnal,level1
+103,Mammal,Aquatic,Omnivore,Medium,Crepuscular,level1
+104,Mammal,Aquatic,Omnivore,Medium,Cathemeral,level1
+105,Mammal,Aquatic,Omnivore,Large,Diurnal,level1
+106,Mammal,Aquatic,Omnivore,Large,Nocturnal,level1
+107,Mammal,Aquatic,Omnivore,Large,Crepuscular,level1
+108,Mammal,Aquatic,Omnivore,Large,Cathemeral,level1
+109,Mammal,Aquatic,Omnivore,Very Large,Diurnal,level1
+110,Mammal,Aquatic,Omnivore,Very Large,Nocturnal,level1
+111,Mammal,Aquatic,Omnivore,Very Large,Crepuscular,level1
+112,Mammal,Aquatic,Omnivore,Very Large,Cathemeral,level1
+113,Mammal,Aquatic,Insectivore,Small,Diurnal,level1
+114,Mammal,Aquatic,Insectivore,Small,Nocturnal,level1
+115,Mammal,Aquatic,Insectivore,Small,Crepuscular,level1
+116,Mammal,Aquatic,Insectivore,Small,Cathemeral,level1
+117,Mammal,Aquatic,Insectivore,Medium,Diurnal,level1
+118,Mammal,Aquatic,Insectivore,Medium,Nocturnal,level1
+119,Mammal,Aquatic,Insectivore,Medium,Crepuscular,level1
+120,Mammal,Aquatic,Insectivore,Medium,Cathemeral,level1
+121,Mammal,Aquatic,Insectivore,Large,Diurnal,level1
+122,Mammal,Aquatic,Insectivore,Large,Nocturnal,level1
+123,Mammal,Aquatic,Insectivore,Large,Crepuscular,level1
+124,Mammal,Aquatic,Insectivore,Large,Cathemeral,level1
+125,Mammal,Aquatic,Insectivore,Very Large,Diurnal,level1
+126,Mammal,Aquatic,Insectivore,Very Large,Nocturnal,level1
+127,Mammal,Aquatic,Insectivore,Very Large,Crepuscular,level1
+128,Mammal,Aquatic,Insectivore,Very Large,Cathemeral,level1
+129,Mammal,Aerial,Carnivore,Small,Diurnal,level1
+130,Mammal,Aerial,Carnivore,Small,Nocturnal,level1
+131,Mammal,Aerial,Carnivore,Small,Crepuscular,level1
+132,Mammal,Aerial,Carnivore,Small,Cathemeral,level1
+133,Mammal,Aerial,Carnivore,Medium,Diurnal,level1
+134,Mammal,Aerial,Carnivore,Medium,Nocturnal,level1
+135,Mammal,Aerial,Carnivore,Medium,Crepuscular,level1
+136,Mammal,Aerial,Carnivore,Medium,Cathemeral,level1
+137,Mammal,Aerial,Carnivore,Large,Diurnal,level1
+138,Mammal,Aerial,Carnivore,Large,Nocturnal,level1
+139,Mammal,Aerial,Carnivore,Large,Crepuscular,level1
+140,Mammal,Aerial,Carnivore,Large,Cathemeral,level1
+141,Mammal,Aerial,Carnivore,Very Large,Diurnal,level1
+142,Mammal,Aerial,Carnivore,Very Large,Nocturnal,level1
+143,Mammal,Aerial,Carnivore,Very Large,Crepuscular,level1
+144,Mammal,Aerial,Carnivore,Very Large,Cathemeral,level1
+145,Mammal,Aerial,Herbivore,Small,Diurnal,level1
+146,Mammal,Aerial,Herbivore,Small,Nocturnal,level1
+147,Mammal,Aerial,Herbivore,Small,Crepuscular,level1
+148,Mammal,Aerial,Herbivore,Small,Cathemeral,level1
+149,Mammal,Aerial,Herbivore,Medium,Diurnal,level1
+150,Mammal,Aerial,Herbivore,Medium,Nocturnal,level1
+151,Mammal,Aerial,Herbivore,Medium,Crepuscular,level1
+152,Mammal,Aerial,Herbivore,Medium,Cathemeral,level1
+153,Mammal,Aerial,Herbivore,Large,Diurnal,level1
+154,Mammal,Aerial,Herbivore,Large,Nocturnal,level1
+155,Mammal,Aerial,Herbivore,Large,Crepuscular,level1
+156,Mammal,Aerial,Herbivore,Large,Cathemeral,level1
+157,Mammal,Aerial,Herbivore,Very Large,Diurnal,level1
+158,Mammal,Aerial,Herbivore,Very Large,Nocturnal,level1
+159,Mammal,Aerial,Herbivore,Very Large,Crepuscular,level1
+160,Mammal,Aerial,Herbivore,Very Large,Cathemeral,level1
+161,Mammal,Aerial,Omnivore,Small,Diurnal,level1
+162,Mammal,Aerial,Omnivore,Small,Nocturnal,level1
+163,Mammal,Aerial,Omnivore,Small,Crepuscular,level1
+164,Mammal,Aerial,Omnivore,Small,Cathemeral,level1
+165,Mammal,Aerial,Omnivore,Medium,Diurnal,level1
+166,Mammal,Aerial,Omnivore,Medium,Nocturnal,level1
+167,Mammal,Aerial,Omnivore,Medium,Crepuscular,level1
+168,Mammal,Aerial,Omnivore,Medium,Cathemeral,level1
+169,Mammal,Aerial,Omnivore,Large,Diurnal,level1
+170,Mammal,Aerial,Omnivore,Large,Nocturnal,level1
+171,Mammal,Aerial,Omnivore,Large,Crepuscular,level1
+172,Mammal,Aerial,Omnivore,Large,Cathemeral,level1
+173,Mammal,Aerial,Omnivore,Very Large,Diurnal,level1
+174,Mammal,Aerial,Omnivore,Very Large,Nocturnal,level1
+175,Mammal,Aerial,Omnivore,Very Large,Crepuscular,level1
+176,Mammal,Aerial,Omnivore,Very Large,Cathemeral,level1
+177,Mammal,Aerial,Insectivore,Small,Diurnal,level1
+178,Mammal,Aerial,Insectivore,Small,Nocturnal,level1
+179,Mammal,Aerial,Insectivore,Small,Crepuscular,level1
+180,Mammal,Aerial,Insectivore,Small,Cathemeral,level1
+181,Mammal,Aerial,Insectivore,Medium,Diurnal,level1
+182,Mammal,Aerial,Insectivore,Medium,Nocturnal,level1
+183,Mammal,Aerial,Insectivore,Medium,Crepuscular,level1
+184,Mammal,Aerial,Insectivore,Medium,Cathemeral,level1
+185,Mammal,Aerial,Insectivore,Large,Diurnal,level1
+186,Mammal,Aerial,Insectivore,Large,Nocturnal,level1
+187,Mammal,Aerial,Insectivore,Large,Crepuscular,level1
+188,Mammal,Aerial,Insectivore,Large,Cathemeral,level1
+189,Mammal,Aerial,Insectivore,Very Large,Diurnal,level1
+190,Mammal,Aerial,Insectivore,Very Large,Nocturnal,level1
+191,Mammal,Aerial,Insectivore,Very Large,Crepuscular,level1
+192,Mammal,Aerial,Insectivore,Very Large,Cathemeral,level1
+193,Mammal,Semi-aquatic,Carnivore,Small,Diurnal,level1
+194,Mammal,Semi-aquatic,Carnivore,Small,Nocturnal,level1
+195,Mammal,Semi-aquatic,Carnivore,Small,Crepuscular,level1
+196,Mammal,Semi-aquatic,Carnivore,Small,Cathemeral,level1
+197,Mammal,Semi-aquatic,Carnivore,Medium,Diurnal,level1
+198,Mammal,Semi-aquatic,Carnivore,Medium,Nocturnal,level1
+199,Mammal,Semi-aquatic,Carnivore,Medium,Crepuscular,level1
+200,Mammal,Semi-aquatic,Carnivore,Medium,Cathemeral,level1
+201,Mammal,Semi-aquatic,Carnivore,Large,Diurnal,level1
+202,Mammal,Semi-aquatic,Carnivore,Large,Nocturnal,level1
+203,Mammal,Semi-aquatic,Carnivore,Large,Crepuscular,level1
+204,Mammal,Semi-aquatic,Carnivore,Large,Cathemeral,level1
+205,Mammal,Semi-aquatic,Carnivore,Very Large,Diurnal,level1
+206,Mammal,Semi-aquatic,Carnivore,Very Large,Nocturnal,level1
+207,Mammal,Semi-aquatic,Carnivore,Very Large,Crepuscular,level1
+208,Mammal,Semi-aquatic,Carnivore,Very Large,Cathemeral,level1
+209,Mammal,Semi-aquatic,Herbivore,Small,Diurnal,level1
+210,Mammal,Semi-aquatic,Herbivore,Small,Nocturnal,level1
+211,Mammal,Semi-aquatic,Herbivore,Small,Crepuscular,level1
+212,Mammal,Semi-aquatic,Herbivore,Small,Cathemeral,level1
+213,Mammal,Semi-aquatic,Herbivore,Medium,Diurnal,level1
+214,Mammal,Semi-aquatic,Herbivore,Medium,Nocturnal,level1
+215,Mammal,Semi-aquatic,Herbivore,Medium,Crepuscular,level1
+216,Mammal,Semi-aquatic,Herbivore,Medium,Cathemeral,level1
+217,Mammal,Semi-aquatic,Herbivore,Large,Diurnal,level1
+218,Mammal,Semi-aquatic,Herbivore,Large,Nocturnal,level1
+219,Mammal,Semi-aquatic,Herbivore,Large,Crepuscular,level1
+220,Mammal,Semi-aquatic,Herbivore,Large,Cathemeral,level1
+221,Mammal,Semi-aquatic,Herbivore,Very Large,Diurnal,level1
+222,Mammal,Semi-aquatic,Herbivore,Very Large,Nocturnal,level1
+223,Mammal,Semi-aquatic,Herbivore,Very Large,Crepuscular,level1
+224,Mammal,Semi-aquatic,Herbivore,Very Large,Cathemeral,level1
+225,Mammal,Semi-aquatic,Omnivore,Small,Diurnal,level1
+226,Mammal,Semi-aquatic,Omnivore,Small,Nocturnal,level1
+227,Mammal,Semi-aquatic,Omnivore,Small,Crepuscular,level1
+228,Mammal,Semi-aquatic,Omnivore,Small,Cathemeral,level1
+229,Mammal,Semi-aquatic,Omnivore,Medium,Diurnal,level1
+230,Mammal,Semi-aquatic,Omnivore,Medium,Nocturnal,level1
+231,Mammal,Semi-aquatic,Omnivore,Medium,Crepuscular,level1
+232,Mammal,Semi-aquatic,Omnivore,Medium,Cathemeral,level1
+233,Mammal,Semi-aquatic,Omnivore,Large,Diurnal,level1
+234,Mammal,Semi-aquatic,Omnivore,Large,Nocturnal,level1
+235,Mammal,Semi-aquatic,Omnivore,Large,Crepuscular,level1
+236,Mammal,Semi-aquatic,Omnivore,Large,Cathemeral,level1
+237,Mammal,Semi-aquatic,Omnivore,Very Large,Diurnal,level1
+238,Mammal,Semi-aquatic,Omnivore,Very Large,Nocturnal,level1
+239,Mammal,Semi-aquatic,Omnivore,Very Large,Crepuscular,level1
+240,Mammal,Semi-aquatic,Omnivore,Very Large,Cathemeral,level1
+241,Mammal,Semi-aquatic,Insectivore,Small,Diurnal,level1
+242,Mammal,Semi-aquatic,Insectivore,Small,Nocturnal,level1
+243,Mammal,Semi-aquatic,Insectivore,Small,Crepuscular,level1
+244,Mammal,Semi-aquatic,Insectivore,Small,Cathemeral,level1
+245,Mammal,Semi-aquatic,Insectivore,Medium,Diurnal,level1
+246,Mammal,Semi-aquatic,Insectivore,Medium,Nocturnal,level1
+247,Mammal,Semi-aquatic,Insectivore,Medium,Crepuscular,level1
+248,Mammal,Semi-aquatic,Insectivore,Medium,Cathemeral,level1
+249,Mammal,Semi-aquatic,Insectivore,Large,Diurnal,level1
+250,Mammal,Semi-aquatic,Insectivore,Large,Nocturnal,level1
+251,Mammal,Semi-aquatic,Insectivore,Large,Crepuscular,level1
+252,Mammal,Semi-aquatic,Insectivore,Large,Cathemeral,level1
+253,Mammal,Semi-aquatic,Insectivore,Very Large,Diurnal,level1
+254,Mammal,Semi-aquatic,Insectivore,Very Large,Nocturnal,level1
+255,Mammal,Semi-aquatic,Insectivore,Very Large,Crepuscular,level1
+256,Mammal,Semi-aquatic,Insectivore,Very Large,Cathemeral,level1
+257,Bird,Terrestrial,Carnivore,Small,Diurnal,level1
+258,Bird,Terrestrial,Carnivore,Small,Nocturnal,level1
+259,Bird,Terrestrial,Carnivore,Small,Crepuscular,level1
+260,Bird,Terrestrial,Carnivore,Small,Cathemeral,level1
+261,Bird,Terrestrial,Carnivore,Medium,Diurnal,level1
+262,Bird,Terrestrial,Carnivore,Medium,Nocturnal,level1
+263,Bird,Terrestrial,Carnivore,Medium,Crepuscular,level1
+264,Bird,Terrestrial,Carnivore,Medium,Cathemeral,level1
+265,Bird,Terrestrial,Carnivore,Large,Diurnal,level1
+266,Bird,Terrestrial,Carnivore,Large,Nocturnal,level1
+267,Bird,Terrestrial,Carnivore,Large,Crepuscular,level1
+268,Bird,Terrestrial,Carnivore,Large,Cathemeral,level1
+269,Bird,Terrestrial,Carnivore,Very Large,Diurnal,level1
+270,Bird,Terrestrial,Carnivore,Very Large,Nocturnal,level1
+271,Bird,Terrestrial,Carnivore,Very Large,Crepuscular,level1
+272,Bird,Terrestrial,Carnivore,Very Large,Cathemeral,level1
+273,Bird,Terrestrial,Herbivore,Small,Diurnal,level1
+274,Bird,Terrestrial,Herbivore,Small,Nocturnal,level1
+275,Bird,Terrestrial,Herbivore,Small,Crepuscular,level1
+276,Bird,Terrestrial,Herbivore,Small,Cathemeral,level1
+277,Bird,Terrestrial,Herbivore,Medium,Diurnal,level1
+278,Bird,Terrestrial,Herbivore,Medium,Nocturnal,level1
+279,Bird,Terrestrial,Herbivore,Medium,Crepuscular,level1
+280,Bird,Terrestrial,Herbivore,Medium,Cathemeral,level1
+281,Bird,Terrestrial,Herbivore,Large,Diurnal,level1
+282,Bird,Terrestrial,Herbivore,Large,Nocturnal,level1
+283,Bird,Terrestrial,Herbivore,Large,Crepuscular,level1
+284,Bird,Terrestrial,Herbivore,Large,Cathemeral,level1
+285,Bird,Terrestrial,Herbivore,Very Large,Diurnal,level1
+286,Bird,Terrestrial,Herbivore,Very Large,Nocturnal,level1
+287,Bird,Terrestrial,Herbivore,Very Large,Crepuscular,level1
+288,Bird,Terrestrial,Herbivore,Very Large,Cathemeral,level1
+289,Bird,Terrestrial,Omnivore,Small,Diurnal,level1
+290,Bird,Terrestrial,Omnivore,Small,Nocturnal,level1
+291,Bird,Terrestrial,Omnivore,Small,Crepuscular,level1
+292,Bird,Terrestrial,Omnivore,Small,Cathemeral,level1
+293,Bird,Terrestrial,Omnivore,Medium,Diurnal,level1
+294,Bird,Terrestrial,Omnivore,Medium,Nocturnal,level1
+295,Bird,Terrestrial,Omnivore,Medium,Crepuscular,level1
+296,Bird,Terrestrial,Omnivore,Medium,Cathemeral,level1
+297,Bird,Terrestrial,Omnivore,Large,Diurnal,level1
+298,Bird,Terrestrial,Omnivore,Large,Nocturnal,level1
+299,Bird,Terrestrial,Omnivore,Large,Crepuscular,level1
+300,Bird,Terrestrial,Omnivore,Large,Cathemeral,level1
+301,Bird,Terrestrial,Omnivore,Very Large,Diurnal,level1
+302,Bird,Terrestrial,Omnivore,Very Large,Nocturnal,level1
+303,Bird,Terrestrial,Omnivore,Very Large,Crepuscular,level1
+304,Bird,Terrestrial,Omnivore,Very Large,Cathemeral,level1
+305,Bird,Terrestrial,Insectivore,Small,Diurnal,level1
+306,Bird,Terrestrial,Insectivore,Small,Nocturnal,level1
+307,Bird,Terrestrial,Insectivore,Small,Crepuscular,level1
+308,Bird,Terrestrial,Insectivore,Small,Cathemeral,level1
+309,Bird,Terrestrial,Insectivore,Medium,Diurnal,level1
+310,Bird,Terrestrial,Insectivore,Medium,Nocturnal,level1
+311,Bird,Terrestrial,Insectivore,Medium,Crepuscular,level1
+312,Bird,Terrestrial,Insectivore,Medium,Cathemeral,level1
+313,Bird,Terrestrial,Insectivore,Large,Diurnal,level1
+314,Bird,Terrestrial,Insectivore,Large,Nocturnal,level1
+315,Bird,Terrestrial,Insectivore,Large,Crepuscular,level1
+316,Bird,Terrestrial,Insectivore,Large,Cathemeral,level1
+317,Bird,Terrestrial,Insectivore,Very Large,Diurnal,level1
+318,Bird,Terrestrial,Insectivore,Very Large,Nocturnal,level1
+319,Bird,Terrestrial,Insectivore,Very Large,Crepuscular,level1
+320,Bird,Terrestrial,Insectivore,Very Large,Cathemeral,level1
+321,Bird,Aquatic,Carnivore,Small,Diurnal,level1
+322,Bird,Aquatic,Carnivore,Small,Nocturnal,level1
+323,Bird,Aquatic,Carnivore,Small,Crepuscular,level1
+324,Bird,Aquatic,Carnivore,Small,Cathemeral,level1
+325,Bird,Aquatic,Carnivore,Medium,Diurnal,level1
+326,Bird,Aquatic,Carnivore,Medium,Nocturnal,level1
+327,Bird,Aquatic,Carnivore,Medium,Crepuscular,level1
+328,Bird,Aquatic,Carnivore,Medium,Cathemeral,level1
+329,Bird,Aquatic,Carnivore,Large,Diurnal,level1
+330,Bird,Aquatic,Carnivore,Large,Nocturnal,level1
+331,Bird,Aquatic,Carnivore,Large,Crepuscular,level1
+332,Bird,Aquatic,Carnivore,Large,Cathemeral,level1
+333,Bird,Aquatic,Carnivore,Very Large,Diurnal,level1
+334,Bird,Aquatic,Carnivore,Very Large,Nocturnal,level1
+335,Bird,Aquatic,Carnivore,Very Large,Crepuscular,level1
+336,Bird,Aquatic,Carnivore,Very Large,Cathemeral,level1
+337,Bird,Aquatic,Herbivore,Small,Diurnal,level1
+338,Bird,Aquatic,Herbivore,Small,Nocturnal,level1
+339,Bird,Aquatic,Herbivore,Small,Crepuscular,level1
+340,Bird,Aquatic,Herbivore,Small,Cathemeral,level1
+341,Bird,Aquatic,Herbivore,Medium,Diurnal,level1
+342,Bird,Aquatic,Herbivore,Medium,Nocturnal,level1
+343,Bird,Aquatic,Herbivore,Medium,Crepuscular,level1
+344,Bird,Aquatic,Herbivore,Medium,Cathemeral,level1
+345,Bird,Aquatic,Herbivore,Large,Diurnal,level1
+346,Bird,Aquatic,Herbivore,Large,Nocturnal,level1
+347,Bird,Aquatic,Herbivore,Large,Crepuscular,level1
+348,Bird,Aquatic,Herbivore,Large,Cathemeral,level1
+349,Bird,Aquatic,Herbivore,Very Large,Diurnal,level1
+350,Bird,Aquatic,Herbivore,Very Large,Nocturnal,level1
+351,Bird,Aquatic,Herbivore,Very Large,Crepuscular,level1
+352,Bird,Aquatic,Herbivore,Very Large,Cathemeral,level1
+353,Bird,Aquatic,Omnivore,Small,Diurnal,level1
+354,Bird,Aquatic,Omnivore,Small,Nocturnal,level1
+355,Bird,Aquatic,Omnivore,Small,Crepuscular,level1
+356,Bird,Aquatic,Omnivore,Small,Cathemeral,level1
+357,Bird,Aquatic,Omnivore,Medium,Diurnal,level1
+358,Bird,Aquatic,Omnivore,Medium,Nocturnal,level1
+359,Bird,Aquatic,Omnivore,Medium,Crepuscular,level1
+360,Bird,Aquatic,Omnivore,Medium,Cathemeral,level1
+361,Bird,Aquatic,Omnivore,Large,Diurnal,level1
+362,Bird,Aquatic,Omnivore,Large,Nocturnal,level1
+363,Bird,Aquatic,Omnivore,Large,Crepuscular,level1
+364,Bird,Aquatic,Omnivore,Large,Cathemeral,level1
+365,Bird,Aquatic,Omnivore,Very Large,Diurnal,level1
+366,Bird,Aquatic,Omnivore,Very Large,Nocturnal,level1
+367,Bird,Aquatic,Omnivore,Very Large,Crepuscular,level1
+368,Bird,Aquatic,Omnivore,Very Large,Cathemeral,level1
+369,Bird,Aquatic,Insectivore,Small,Diurnal,level1
+370,Bird,Aquatic,Insectivore,Small,Nocturnal,level1
+371,Bird,Aquatic,Insectivore,Small,Crepuscular,level1
+372,Bird,Aquatic,Insectivore,Small,Cathemeral,level1
+373,Bird,Aquatic,Insectivore,Medium,Diurnal,level1
+374,Bird,Aquatic,Insectivore,Medium,Nocturnal,level1
+375,Bird,Aquatic,Insectivore,Medium,Crepuscular,level1
+376,Bird,Aquatic,Insectivore,Medium,Cathemeral,level1
+377,Bird,Aquatic,Insectivore,Large,Diurnal,level1
+378,Bird,Aquatic,Insectivore,Large,Nocturnal,level1
+379,Bird,Aquatic,Insectivore,Large,Crepuscular,level1
+380,Bird,Aquatic,Insectivore,Large,Cathemeral,level1
+381,Bird,Aquatic,Insectivore,Very Large,Diurnal,level1
+382,Bird,Aquatic,Insectivore,Very Large,Nocturnal,level1
+383,Bird,Aquatic,Insectivore,Very Large,Crepuscular,level1
+384,Bird,Aquatic,Insectivore,Very Large,Cathemeral,level1
+385,Bird,Aerial,Carnivore,Small,Diurnal,level1
+386,Bird,Aerial,Carnivore,Small,Nocturnal,level1
+387,Bird,Aerial,Carnivore,Small,Crepuscular,level1
+388,Bird,Aerial,Carnivore,Small,Cathemeral,level1
+389,Bird,Aerial,Carnivore,Medium,Diurnal,level1
+390,Bird,Aerial,Carnivore,Medium,Nocturnal,level1
+391,Bird,Aerial,Carnivore,Medium,Crepuscular,level1
+392,Bird,Aerial,Carnivore,Medium,Cathemeral,level1
+393,Bird,Aerial,Carnivore,Large,Diurnal,level1
+394,Bird,Aerial,Carnivore,Large,Nocturnal,level1
+395,Bird,Aerial,Carnivore,Large,Crepuscular,level1
+396,Bird,Aerial,Carnivore,Large,Cathemeral,level1
+397,Bird,Aerial,Carnivore,Very Large,Diurnal,level1
+398,Bird,Aerial,Carnivore,Very Large,Nocturnal,level1
+399,Bird,Aerial,Carnivore,Very Large,Crepuscular,level1
+400,Bird,Aerial,Carnivore,Very Large,Cathemeral,level1
+401,Bird,Aerial,Herbivore,Small,Diurnal,level1
+402,Bird,Aerial,Herbivore,Small,Nocturnal,level1
+403,Bird,Aerial,Herbivore,Small,Crepuscular,level1
+404,Bird,Aerial,Herbivore,Small,Cathemeral,level1
+405,Bird,Aerial,Herbivore,Medium,Diurnal,level1
+406,Bird,Aerial,Herbivore,Medium,Nocturnal,level1
+407,Bird,Aerial,Herbivore,Medium,Crepuscular,level1
+408,Bird,Aerial,Herbivore,Medium,Cathemeral,level1
+409,Bird,Aerial,Herbivore,Large,Diurnal,level1
+410,Bird,Aerial,Herbivore,Large,Nocturnal,level1
+411,Bird,Aerial,Herbivore,Large,Crepuscular,level1
+412,Bird,Aerial,Herbivore,Large,Cathemeral,level1
+413,Bird,Aerial,Herbivore,Very Large,Diurnal,level1
+414,Bird,Aerial,Herbivore,Very Large,Nocturnal,level1
+415,Bird,Aerial,Herbivore,Very Large,Crepuscular,level1
+416,Bird,Aerial,Herbivore,Very Large,Cathemeral,level1
+417,Bird,Aerial,Omnivore,Small,Diurnal,level1
+418,Bird,Aerial,Omnivore,Small,Nocturnal,level1
+419,Bird,Aerial,Omnivore,Small,Crepuscular,level1
+420,Bird,Aerial,Omnivore,Small,Cathemeral,level1
+421,Bird,Aerial,Omnivore,Medium,Diurnal,level1
+422,Bird,Aerial,Omnivore,Medium,Nocturnal,level1
+423,Bird,Aerial,Omnivore,Medium,Crepuscular,level1
+424,Bird,Aerial,Omnivore,Medium,Cathemeral,level1
+425,Bird,Aerial,Omnivore,Large,Diurnal,level1
+426,Bird,Aerial,Omnivore,Large,Nocturnal,level1
+427,Bird,Aerial,Omnivore,Large,Crepuscular,level1
+428,Bird,Aerial,Omnivore,Large,Cathemeral,level1
+429,Bird,Aerial,Omnivore,Very Large,Diurnal,level1
+430,Bird,Aerial,Omnivore,Very Large,Nocturnal,level1
+431,Bird,Aerial,Omnivore,Very Large,Crepuscular,level1
+432,Bird,Aerial,Omnivore,Very Large,Cathemeral,level1
+433,Bird,Aerial,Insectivore,Small,Diurnal,level1
+434,Bird,Aerial,Insectivore,Small,Nocturnal,level1
+435,Bird,Aerial,Insectivore,Small,Crepuscular,level1
+436,Bird,Aerial,Insectivore,Small,Cathemeral,level1
+437,Bird,Aerial,Insectivore,Medium,Diurnal,level1
+438,Bird,Aerial,Insectivore,Medium,Nocturnal,level1
+439,Bird,Aerial,Insectivore,Medium,Crepuscular,level1
+440,Bird,Aerial,Insectivore,Medium,Cathemeral,level1
+441,Bird,Aerial,Insectivore,Large,Diurnal,level1
+442,Bird,Aerial,Insectivore,Large,Nocturnal,level1
+443,Bird,Aerial,Insectivore,Large,Crepuscular,level1
+444,Bird,Aerial,Insectivore,Large,Cathemeral,level1
+445,Bird,Aerial,Insectivore,Very Large,Diurnal,level1
+446,Bird,Aerial,Insectivore,Very Large,Nocturnal,level1
+447,Bird,Aerial,Insectivore,Very Large,Crepuscular,level1
+448,Bird,Aerial,Insectivore,Very Large,Cathemeral,level1
+449,Bird,Semi-aquatic,Carnivore,Small,Diurnal,level1
+450,Bird,Semi-aquatic,Carnivore,Small,Nocturnal,level1
+451,Bird,Semi-aquatic,Carnivore,Small,Crepuscular,level1
+452,Bird,Semi-aquatic,Carnivore,Small,Cathemeral,level1
+453,Bird,Semi-aquatic,Carnivore,Medium,Diurnal,level1
+454,Bird,Semi-aquatic,Carnivore,Medium,Nocturnal,level1
+455,Bird,Semi-aquatic,Carnivore,Medium,Crepuscular,level1
+456,Bird,Semi-aquatic,Carnivore,Medium,Cathemeral,level1
+457,Bird,Semi-aquatic,Carnivore,Large,Diurnal,level1
+458,Bird,Semi-aquatic,Carnivore,Large,Nocturnal,level1
+459,Bird,Semi-aquatic,Carnivore,Large,Crepuscular,level1
+460,Bird,Semi-aquatic,Carnivore,Large,Cathemeral,level1
+461,Bird,Semi-aquatic,Carnivore,Very Large,Diurnal,level1
+462,Bird,Semi-aquatic,Carnivore,Very Large,Nocturnal,level1
+463,Bird,Semi-aquatic,Carnivore,Very Large,Crepuscular,level1
+464,Bird,Semi-aquatic,Carnivore,Very Large,Cathemeral,level1
+465,Bird,Semi-aquatic,Herbivore,Small,Diurnal,level1
+466,Bird,Semi-aquatic,Herbivore,Small,Nocturnal,level1
+467,Bird,Semi-aquatic,Herbivore,Small,Crepuscular,level1
+468,Bird,Semi-aquatic,Herbivore,Small,Cathemeral,level1
+469,Bird,Semi-aquatic,Herbivore,Medium,Diurnal,level1
+470,Bird,Semi-aquatic,Herbivore,Medium,Nocturnal,level1
+471,Bird,Semi-aquatic,Herbivore,Medium,Crepuscular,level1
+472,Bird,Semi-aquatic,Herbivore,Medium,Cathemeral,level1
+473,Bird,Semi-aquatic,Herbivore,Large,Diurnal,level1
+474,Bird,Semi-aquatic,Herbivore,Large,Nocturnal,level1
+475,Bird,Semi-aquatic,Herbivore,Large,Crepuscular,level1
+476,Bird,Semi-aquatic,Herbivore,Large,Cathemeral,level1
+477,Bird,Semi-aquatic,Herbivore,Very Large,Diurnal,level1
+478,Bird,Semi-aquatic,Herbivore,Very Large,Nocturnal,level1
+479,Bird,Semi-aquatic,Herbivore,Very Large,Crepuscular,level1
+480,Bird,Semi-aquatic,Herbivore,Very Large,Cathemeral,level1
+481,Bird,Semi-aquatic,Omnivore,Small,Diurnal,level1
+482,Bird,Semi-aquatic,Omnivore,Small,Nocturnal,level1
+483,Bird,Semi-aquatic,Omnivore,Small,Crepuscular,level1
+484,Bird,Semi-aquatic,Omnivore,Small,Cathemeral,level1
+485,Bird,Semi-aquatic,Omnivore,Medium,Diurnal,level1
+486,Bird,Semi-aquatic,Omnivore,Medium,Nocturnal,level1
+487,Bird,Semi-aquatic,Omnivore,Medium,Crepuscular,level1
+488,Bird,Semi-aquatic,Omnivore,Medium,Cathemeral,level1
+489,Bird,Semi-aquatic,Omnivore,Large,Diurnal,level1
+490,Bird,Semi-aquatic,Omnivore,Large,Nocturnal,level1
+491,Bird,Semi-aquatic,Omnivore,Large,Crepuscular,level1
+492,Bird,Semi-aquatic,Omnivore,Large,Cathemeral,level1
+493,Bird,Semi-aquatic,Omnivore,Very Large,Diurnal,level1
+494,Bird,Semi-aquatic,Omnivore,Very Large,Nocturnal,level1
+495,Bird,Semi-aquatic,Omnivore,Very Large,Crepuscular,level1
+496,Bird,Semi-aquatic,Omnivore,Very Large,Cathemeral,level1
+497,Bird,Semi-aquatic,Insectivore,Small,Diurnal,level1
+498,Bird,Semi-aquatic,Insectivore,Small,Nocturnal,level1
+499,Bird,Semi-aquatic,Insectivore,Small,Crepuscular,level1
+500,Bird,Semi-aquatic,Insectivore,Small,Cathemeral,level1
+501,Bird,Semi-aquatic,Insectivore,Medium,Diurnal,level1
+502,Bird,Semi-aquatic,Insectivore,Medium,Nocturnal,level1
+503,Bird,Semi-aquatic,Insectivore,Medium,Crepuscular,level1
+504,Bird,Semi-aquatic,Insectivore,Medium,Cathemeral,level1
+505,Bird,Semi-aquatic,Insectivore,Large,Diurnal,level1
+506,Bird,Semi-aquatic,Insectivore,Large,Nocturnal,level1
+507,Bird,Semi-aquatic,Insectivore,Large,Crepuscular,level1
+508,Bird,Semi-aquatic,Insectivore,Large,Cathemeral,level1
+509,Bird,Semi-aquatic,Insectivore,Very Large,Diurnal,level1
+510,Bird,Semi-aquatic,Insectivore,Very Large,Nocturnal,level1
+511,Bird,Semi-aquatic,Insectivore,Very Large,Crepuscular,level1
+512,Bird,Semi-aquatic,Insectivore,Very Large,Cathemeral,level1
+513,Reptile,Terrestrial,Carnivore,Small,Diurnal,level1
+514,Reptile,Terrestrial,Carnivore,Small,Nocturnal,level1
+515,Reptile,Terrestrial,Carnivore,Small,Crepuscular,level1
+516,Reptile,Terrestrial,Carnivore,Small,Cathemeral,level1
+517,Reptile,Terrestrial,Carnivore,Medium,Diurnal,level1
+518,Reptile,Terrestrial,Carnivore,Medium,Nocturnal,level1
+519,Reptile,Terrestrial,Carnivore,Medium,Crepuscular,level1
+520,Reptile,Terrestrial,Carnivore,Medium,Cathemeral,level1
+521,Reptile,Terrestrial,Carnivore,Large,Diurnal,level1
+522,Reptile,Terrestrial,Carnivore,Large,Nocturnal,level1
+523,Reptile,Terrestrial,Carnivore,Large,Crepuscular,level1
+524,Reptile,Terrestrial,Carnivore,Large,Cathemeral,level1
+525,Reptile,Terrestrial,Carnivore,Very Large,Diurnal,level1
+526,Reptile,Terrestrial,Carnivore,Very Large,Nocturnal,level1
+527,Reptile,Terrestrial,Carnivore,Very Large,Crepuscular,level1
+528,Reptile,Terrestrial,Carnivore,Very Large,Cathemeral,level1
+529,Reptile,Terrestrial,Herbivore,Small,Diurnal,level1
+530,Reptile,Terrestrial,Herbivore,Small,Nocturnal,level1
+531,Reptile,Terrestrial,Herbivore,Small,Crepuscular,level1
+532,Reptile,Terrestrial,Herbivore,Small,Cathemeral,level1
+533,Reptile,Terrestrial,Herbivore,Medium,Diurnal,level1
+534,Reptile,Terrestrial,Herbivore,Medium,Nocturnal,level1
+535,Reptile,Terrestrial,Herbivore,Medium,Crepuscular,level1
+536,Reptile,Terrestrial,Herbivore,Medium,Cathemeral,level1
+537,Reptile,Terrestrial,Herbivore,Large,Diurnal,level1
+538,Reptile,Terrestrial,Herbivore,Large,Nocturnal,level1
+539,Reptile,Terrestrial,Herbivore,Large,Crepuscular,level1
+540,Reptile,Terrestrial,Herbivore,Large,Cathemeral,level1
+541,Reptile,Terrestrial,Herbivore,Very Large,Diurnal,level1
+542,Reptile,Terrestrial,Herbivore,Very Large,Nocturnal,level1
+543,Reptile,Terrestrial,Herbivore,Very Large,Crepuscular,level1
+544,Reptile,Terrestrial,Herbivore,Very Large,Cathemeral,level1
+545,Reptile,Terrestrial,Omnivore,Small,Diurnal,level1
+546,Reptile,Terrestrial,Omnivore,Small,Nocturnal,level1
+547,Reptile,Terrestrial,Omnivore,Small,Crepuscular,level1
+548,Reptile,Terrestrial,Omnivore,Small,Cathemeral,level1
+549,Reptile,Terrestrial,Omnivore,Medium,Diurnal,level1
+550,Reptile,Terrestrial,Omnivore,Medium,Nocturnal,level1
+551,Reptile,Terrestrial,Omnivore,Medium,Crepuscular,level1
+552,Reptile,Terrestrial,Omnivore,Medium,Cathemeral,level1
+553,Reptile,Terrestrial,Omnivore,Large,Diurnal,level1
+554,Reptile,Terrestrial,Omnivore,Large,Nocturnal,level1
+555,Reptile,Terrestrial,Omnivore,Large,Crepuscular,level1
+556,Reptile,Terrestrial,Omnivore,Large,Cathemeral,level1
+557,Reptile,Terrestrial,Omnivore,Very Large,Diurnal,level1
+558,Reptile,Terrestrial,Omnivore,Very Large,Nocturnal,level1
+559,Reptile,Terrestrial,Omnivore,Very Large,Crepuscular,level1
+560,Reptile,Terrestrial,Omnivore,Very Large,Cathemeral,level1
+561,Reptile,Terrestrial,Insectivore,Small,Diurnal,level1
+562,Reptile,Terrestrial,Insectivore,Small,Nocturnal,level1
+563,Reptile,Terrestrial,Insectivore,Small,Crepuscular,level1
+564,Reptile,Terrestrial,Insectivore,Small,Cathemeral,level1
+565,Reptile,Terrestrial,Insectivore,Medium,Diurnal,level1
+566,Reptile,Terrestrial,Insectivore,Medium,Nocturnal,level1
+567,Reptile,Terrestrial,Insectivore,Medium,Crepuscular,level1
+568,Reptile,Terrestrial,Insectivore,Medium,Cathemeral,level1
+569,Reptile,Terrestrial,Insectivore,Large,Diurnal,level1
+570,Reptile,Terrestrial,Insectivore,Large,Nocturnal,level1
+571,Reptile,Terrestrial,Insectivore,Large,Crepuscular,level1
+572,Reptile,Terrestrial,Insectivore,Large,Cathemeral,level1
+573,Reptile,Terrestrial,Insectivore,Very Large,Diurnal,level1
+574,Reptile,Terrestrial,Insectivore,Very Large,Nocturnal,level1
+575,Reptile,Terrestrial,Insectivore,Very Large,Crepuscular,level1
+576,Reptile,Terrestrial,Insectivore,Very Large,Cathemeral,level1
+577,Reptile,Aquatic,Carnivore,Small,Diurnal,level1
+578,Reptile,Aquatic,Carnivore,Small,Nocturnal,level1
+579,Reptile,Aquatic,Carnivore,Small,Crepuscular,level1
+580,Reptile,Aquatic,Carnivore,Small,Cathemeral,level1
+581,Reptile,Aquatic,Carnivore,Medium,Diurnal,level1
+582,Reptile,Aquatic,Carnivore,Medium,Nocturnal,level1
+583,Reptile,Aquatic,Carnivore,Medium,Crepuscular,level1
+584,Reptile,Aquatic,Carnivore,Medium,Cathemeral,level1
+585,Reptile,Aquatic,Carnivore,Large,Diurnal,level1
+586,Reptile,Aquatic,Carnivore,Large,Nocturnal,level1
+587,Reptile,Aquatic,Carnivore,Large,Crepuscular,level1
+588,Reptile,Aquatic,Carnivore,Large,Cathemeral,level1
+589,Reptile,Aquatic,Carnivore,Very Large,Diurnal,level1
+590,Reptile,Aquatic,Carnivore,Very Large,Nocturnal,level1
+591,Reptile,Aquatic,Carnivore,Very Large,Crepuscular,level1
+592,Reptile,Aquatic,Carnivore,Very Large,Cathemeral,level1
+593,Reptile,Aquatic,Herbivore,Small,Diurnal,level1
+594,Reptile,Aquatic,Herbivore,Small,Nocturnal,level1
+595,Reptile,Aquatic,Herbivore,Small,Crepuscular,level1
+596,Reptile,Aquatic,Herbivore,Small,Cathemeral,level1
+597,Reptile,Aquatic,Herbivore,Medium,Diurnal,level1
+598,Reptile,Aquatic,Herbivore,Medium,Nocturnal,level1
+599,Reptile,Aquatic,Herbivore,Medium,Crepuscular,level1
+600,Reptile,Aquatic,Herbivore,Medium,Cathemeral,level1
+601,Reptile,Aquatic,Herbivore,Large,Diurnal,level1
+602,Reptile,Aquatic,Herbivore,Large,Nocturnal,level1
+603,Reptile,Aquatic,Herbivore,Large,Crepuscular,level1
+604,Reptile,Aquatic,Herbivore,Large,Cathemeral,level1
+605,Reptile,Aquatic,Herbivore,Very Large,Diurnal,level1
+606,Reptile,Aquatic,Herbivore,Very Large,Nocturnal,level1
+607,Reptile,Aquatic,Herbivore,Very Large,Crepuscular,level1
+608,Reptile,Aquatic,Herbivore,Very Large,Cathemeral,level1
+609,Reptile,Aquatic,Omnivore,Small,Diurnal,level1
+610,Reptile,Aquatic,Omnivore,Small,Nocturnal,level1
+611,Reptile,Aquatic,Omnivore,Small,Crepuscular,level1
+612,Reptile,Aquatic,Omnivore,Small,Cathemeral,level1
+613,Reptile,Aquatic,Omnivore,Medium,Diurnal,level1
+614,Reptile,Aquatic,Omnivore,Medium,Nocturnal,level1
+615,Reptile,Aquatic,Omnivore,Medium,Crepuscular,level1
+616,Reptile,Aquatic,Omnivore,Medium,Cathemeral,level1
+617,Reptile,Aquatic,Omnivore,Large,Diurnal,level1
+618,Reptile,Aquatic,Omnivore,Large,Nocturnal,level1
+619,Reptile,Aquatic,Omnivore,Large,Crepuscular,level1
+620,Reptile,Aquatic,Omnivore,Large,Cathemeral,level1
+621,Reptile,Aquatic,Omnivore,Very Large,Diurnal,level1
+622,Reptile,Aquatic,Omnivore,Very Large,Nocturnal,level1
+623,Reptile,Aquatic,Omnivore,Very Large,Crepuscular,level1
+624,Reptile,Aquatic,Omnivore,Very Large,Cathemeral,level1
+625,Reptile,Aquatic,Insectivore,Small,Diurnal,level1
+626,Reptile,Aquatic,Insectivore,Small,Nocturnal,level1
+627,Reptile,Aquatic,Insectivore,Small,Crepuscular,level1
+628,Reptile,Aquatic,Insectivore,Small,Cathemeral,level1
+629,Reptile,Aquatic,Insectivore,Medium,Diurnal,level1
+630,Reptile,Aquatic,Insectivore,Medium,Nocturnal,level1
+631,Reptile,Aquatic,Insectivore,Medium,Crepuscular,level1
+632,Reptile,Aquatic,Insectivore,Medium,Cathemeral,level1
+633,Reptile,Aquatic,Insectivore,Large,Diurnal,level1
+634,Reptile,Aquatic,Insectivore,Large,Nocturnal,level1
+635,Reptile,Aquatic,Insectivore,Large,Crepuscular,level1
+636,Reptile,Aquatic,Insectivore,Large,Cathemeral,level1
+637,Reptile,Aquatic,Insectivore,Very Large,Diurnal,level1
+638,Reptile,Aquatic,Insectivore,Very Large,Nocturnal,level1
+639,Reptile,Aquatic,Insectivore,Very Large,Crepuscular,level1
+640,Reptile,Aquatic,Insectivore,Very Large,Cathemeral,level1
+641,Reptile,Aerial,Carnivore,Small,Diurnal,level1
+642,Reptile,Aerial,Carnivore,Small,Nocturnal,level1
+643,Reptile,Aerial,Carnivore,Small,Crepuscular,level1
+644,Reptile,Aerial,Carnivore,Small,Cathemeral,level1
+645,Reptile,Aerial,Carnivore,Medium,Diurnal,level1
+646,Reptile,Aerial,Carnivore,Medium,Nocturnal,level1
+647,Reptile,Aerial,Carnivore,Medium,Crepuscular,level1
+648,Reptile,Aerial,Carnivore,Medium,Cathemeral,level1
+649,Reptile,Aerial,Carnivore,Large,Diurnal,level1
+650,Reptile,Aerial,Carnivore,Large,Nocturnal,level1
+651,Reptile,Aerial,Carnivore,Large,Crepuscular,level1
+652,Reptile,Aerial,Carnivore,Large,Cathemeral,level1
+653,Reptile,Aerial,Carnivore,Very Large,Diurnal,level1
+654,Reptile,Aerial,Carnivore,Very Large,Nocturnal,level1
+655,Reptile,Aerial,Carnivore,Very Large,Crepuscular,level1
+656,Reptile,Aerial,Carnivore,Very Large,Cathemeral,level1
+657,Reptile,Aerial,Herbivore,Small,Diurnal,level1
+658,Reptile,Aerial,Herbivore,Small,Nocturnal,level1
+659,Reptile,Aerial,Herbivore,Small,Crepuscular,level1
+660,Reptile,Aerial,Herbivore,Small,Cathemeral,level1
+661,Reptile,Aerial,Herbivore,Medium,Diurnal,level1
+662,Reptile,Aerial,Herbivore,Medium,Nocturnal,level1
+663,Reptile,Aerial,Herbivore,Medium,Crepuscular,level1
+664,Reptile,Aerial,Herbivore,Medium,Cathemeral,level1
+665,Reptile,Aerial,Herbivore,Large,Diurnal,level1
+666,Reptile,Aerial,Herbivore,Large,Nocturnal,level1
+667,Reptile,Aerial,Herbivore,Large,Crepuscular,level1
+668,Reptile,Aerial,Herbivore,Large,Cathemeral,level1
+669,Reptile,Aerial,Herbivore,Very Large,Diurnal,level1
+670,Reptile,Aerial,Herbivore,Very Large,Nocturnal,level1
+671,Reptile,Aerial,Herbivore,Very Large,Crepuscular,level1
+672,Reptile,Aerial,Herbivore,Very Large,Cathemeral,level1
+673,Reptile,Aerial,Omnivore,Small,Diurnal,level1
+674,Reptile,Aerial,Omnivore,Small,Nocturnal,level1
+675,Reptile,Aerial,Omnivore,Small,Crepuscular,level1
+676,Reptile,Aerial,Omnivore,Small,Cathemeral,level1
+677,Reptile,Aerial,Omnivore,Medium,Diurnal,level1
+678,Reptile,Aerial,Omnivore,Medium,Nocturnal,level1
+679,Reptile,Aerial,Omnivore,Medium,Crepuscular,level1
+680,Reptile,Aerial,Omnivore,Medium,Cathemeral,level1
+681,Reptile,Aerial,Omnivore,Large,Diurnal,level1
+682,Reptile,Aerial,Omnivore,Large,Nocturnal,level1
+683,Reptile,Aerial,Omnivore,Large,Crepuscular,level1
+684,Reptile,Aerial,Omnivore,Large,Cathemeral,level1
+685,Reptile,Aerial,Omnivore,Very Large,Diurnal,level1
+686,Reptile,Aerial,Omnivore,Very Large,Nocturnal,level1
+687,Reptile,Aerial,Omnivore,Very Large,Crepuscular,level1
+688,Reptile,Aerial,Omnivore,Very Large,Cathemeral,level1
+689,Reptile,Aerial,Insectivore,Small,Diurnal,level1
+690,Reptile,Aerial,Insectivore,Small,Nocturnal,level1
+691,Reptile,Aerial,Insectivore,Small,Crepuscular,level1
+692,Reptile,Aerial,Insectivore,Small,Cathemeral,level1
+693,Reptile,Aerial,Insectivore,Medium,Diurnal,level1
+694,Reptile,Aerial,Insectivore,Medium,Nocturnal,level1
+695,Reptile,Aerial,Insectivore,Medium,Crepuscular,level1
+696,Reptile,Aerial,Insectivore,Medium,Cathemeral,level1
+697,Reptile,Aerial,Insectivore,Large,Diurnal,level1
+698,Reptile,Aerial,Insectivore,Large,Nocturnal,level1
+699,Reptile,Aerial,Insectivore,Large,Crepuscular,level1
+700,Reptile,Aerial,Insectivore,Large,Cathemeral,level1
+701,Reptile,Aerial,Insectivore,Very Large,Diurnal,level1
+702,Reptile,Aerial,Insectivore,Very Large,Nocturnal,level1
+703,Reptile,Aerial,Insectivore,Very Large,Crepuscular,level1
+704,Reptile,Aerial,Insectivore,Very Large,Cathemeral,level1
+705,Reptile,Semi-aquatic,Carnivore,Small,Diurnal,level1
+706,Reptile,Semi-aquatic,Carnivore,Small,Nocturnal,level1
+707,Reptile,Semi-aquatic,Carnivore,Small,Crepuscular,level1
+708,Reptile,Semi-aquatic,Carnivore,Small,Cathemeral,level1
+709,Reptile,Semi-aquatic,Carnivore,Medium,Diurnal,level1
+710,Reptile,Semi-aquatic,Carnivore,Medium,Nocturnal,level1
+711,Reptile,Semi-aquatic,Carnivore,Medium,Crepuscular,level1
+712,Reptile,Semi-aquatic,Carnivore,Medium,Cathemeral,level1
+713,Reptile,Semi-aquatic,Carnivore,Large,Diurnal,level1
+714,Reptile,Semi-aquatic,Carnivore,Large,Nocturnal,level1
+715,Reptile,Semi-aquatic,Carnivore,Large,Crepuscular,level1
+716,Reptile,Semi-aquatic,Carnivore,Large,Cathemeral,level1
+717,Reptile,Semi-aquatic,Carnivore,Very Large,Diurnal,level1
+718,Reptile,Semi-aquatic,Carnivore,Very Large,Nocturnal,level1
+719,Reptile,Semi-aquatic,Carnivore,Very Large,Crepuscular,level1
+720,Reptile,Semi-aquatic,Carnivore,Very Large,Cathemeral,level1
+721,Reptile,Semi-aquatic,Herbivore,Small,Diurnal,level1
+722,Reptile,Semi-aquatic,Herbivore,Small,Nocturnal,level1
+723,Reptile,Semi-aquatic,Herbivore,Small,Crepuscular,level1
+724,Reptile,Semi-aquatic,Herbivore,Small,Cathemeral,level1
+725,Reptile,Semi-aquatic,Herbivore,Medium,Diurnal,level1
+726,Reptile,Semi-aquatic,Herbivore,Medium,Nocturnal,level1
+727,Reptile,Semi-aquatic,Herbivore,Medium,Crepuscular,level1
+728,Reptile,Semi-aquatic,Herbivore,Medium,Cathemeral,level1
+729,Reptile,Semi-aquatic,Herbivore,Large,Diurnal,level1
+730,Reptile,Semi-aquatic,Herbivore,Large,Nocturnal,level1
+731,Reptile,Semi-aquatic,Herbivore,Large,Crepuscular,level1
+732,Reptile,Semi-aquatic,Herbivore,Large,Cathemeral,level1
+733,Reptile,Semi-aquatic,Herbivore,Very Large,Diurnal,level1
+734,Reptile,Semi-aquatic,Herbivore,Very Large,Nocturnal,level1
+735,Reptile,Semi-aquatic,Herbivore,Very Large,Crepuscular,level1
+736,Reptile,Semi-aquatic,Herbivore,Very Large,Cathemeral,level1
+737,Reptile,Semi-aquatic,Omnivore,Small,Diurnal,level1
+738,Reptile,Semi-aquatic,Omnivore,Small,Nocturnal,level1
+739,Reptile,Semi-aquatic,Omnivore,Small,Crepuscular,level1
+740,Reptile,Semi-aquatic,Omnivore,Small,Cathemeral,level1
+741,Reptile,Semi-aquatic,Omnivore,Medium,Diurnal,level1
+742,Reptile,Semi-aquatic,Omnivore,Medium,Nocturnal,level1
+743,Reptile,Semi-aquatic,Omnivore,Medium,Crepuscular,level1
+744,Reptile,Semi-aquatic,Omnivore,Medium,Cathemeral,level1
+745,Reptile,Semi-aquatic,Omnivore,Large,Diurnal,level1
+746,Reptile,Semi-aquatic,Omnivore,Large,Nocturnal,level1
+747,Reptile,Semi-aquatic,Omnivore,Large,Crepuscular,level1
+748,Reptile,Semi-aquatic,Omnivore,Large,Cathemeral,level1
+749,Reptile,Semi-aquatic,Omnivore,Very Large,Diurnal,level1
+750,Reptile,Semi-aquatic,Omnivore,Very Large,Nocturnal,level1
+751,Reptile,Semi-aquatic,Omnivore,Very Large,Crepuscular,level1
+752,Reptile,Semi-aquatic,Omnivore,Very Large,Cathemeral,level1
+753,Reptile,Semi-aquatic,Insectivore,Small,Diurnal,level1
+754,Reptile,Semi-aquatic,Insectivore,Small,Nocturnal,level1
+755,Reptile,Semi-aquatic,Insectivore,Small,Crepuscular,level1
+756,Reptile,Semi-aquatic,Insectivore,Small,Cathemeral,level1
+757,Reptile,Semi-aquatic,Insectivore,Medium,Diurnal,level1
+758,Reptile,Semi-aquatic,Insectivore,Medium,Nocturnal,level1
+759,Reptile,Semi-aquatic,Insectivore,Medium,Crepuscular,level1
+760,Reptile,Semi-aquatic,Insectivore,Medium,Cathemeral,level1
+761,Reptile,Semi-aquatic,Insectivore,Large,Diurnal,level1
+762,Reptile,Semi-aquatic,Insectivore,Large,Nocturnal,level1
+763,Reptile,Semi-aquatic,Insectivore,Large,Crepuscular,level1
+764,Reptile,Semi-aquatic,Insectivore,Large,Cathemeral,level1
+765,Reptile,Semi-aquatic,Insectivore,Very Large,Diurnal,level1
+766,Reptile,Semi-aquatic,Insectivore,Very Large,Nocturnal,level1
+767,Reptile,Semi-aquatic,Insectivore,Very Large,Crepuscular,level1
+768,Reptile,Semi-aquatic,Insectivore,Very Large,Cathemeral,level1
+769,Fish,Terrestrial,Carnivore,Small,Diurnal,level1
+770,Fish,Terrestrial,Carnivore,Small,Nocturnal,level1
+771,Fish,Terrestrial,Carnivore,Small,Crepuscular,level1
+772,Fish,Terrestrial,Carnivore,Small,Cathemeral,level1
+773,Fish,Terrestrial,Carnivore,Medium,Diurnal,level1
+774,Fish,Terrestrial,Carnivore,Medium,Nocturnal,level1
+775,Fish,Terrestrial,Carnivore,Medium,Crepuscular,level1
+776,Fish,Terrestrial,Carnivore,Medium,Cathemeral,level1
+777,Fish,Terrestrial,Carnivore,Large,Diurnal,level1
+778,Fish,Terrestrial,Carnivore,Large,Nocturnal,level1
+779,Fish,Terrestrial,Carnivore,Large,Crepuscular,level1
+780,Fish,Terrestrial,Carnivore,Large,Cathemeral,level1
+781,Fish,Terrestrial,Carnivore,Very Large,Diurnal,level1
+782,Fish,Terrestrial,Carnivore,Very Large,Nocturnal,level1
+783,Fish,Terrestrial,Carnivore,Very Large,Crepuscular,level1
+784,Fish,Terrestrial,Carnivore,Very Large,Cathemeral,level1
+785,Fish,Terrestrial,Herbivore,Small,Diurnal,level1
+786,Fish,Terrestrial,Herbivore,Small,Nocturnal,level1
+787,Fish,Terrestrial,Herbivore,Small,Crepuscular,level1
+788,Fish,Terrestrial,Herbivore,Small,Cathemeral,level1
+789,Fish,Terrestrial,Herbivore,Medium,Diurnal,level1
+790,Fish,Terrestrial,Herbivore,Medium,Nocturnal,level1
+791,Fish,Terrestrial,Herbivore,Medium,Crepuscular,level1
+792,Fish,Terrestrial,Herbivore,Medium,Cathemeral,level1
+793,Fish,Terrestrial,Herbivore,Large,Diurnal,level1
+794,Fish,Terrestrial,Herbivore,Large,Nocturnal,level1
+795,Fish,Terrestrial,Herbivore,Large,Crepuscular,level1
+796,Fish,Terrestrial,Herbivore,Large,Cathemeral,level1
+797,Fish,Terrestrial,Herbivore,Very Large,Diurnal,level1
+798,Fish,Terrestrial,Herbivore,Very Large,Nocturnal,level1
+799,Fish,Terrestrial,Herbivore,Very Large,Crepuscular,level1
+800,Fish,Terrestrial,Herbivore,Very Large,Cathemeral,level1
+801,Fish,Terrestrial,Omnivore,Small,Diurnal,level1
+802,Fish,Terrestrial,Omnivore,Small,Nocturnal,level1
+803,Fish,Terrestrial,Omnivore,Small,Crepuscular,level1
+804,Fish,Terrestrial,Omnivore,Small,Cathemeral,level1
+805,Fish,Terrestrial,Omnivore,Medium,Diurnal,level1
+806,Fish,Terrestrial,Omnivore,Medium,Nocturnal,level1
+807,Fish,Terrestrial,Omnivore,Medium,Crepuscular,level1
+808,Fish,Terrestrial,Omnivore,Medium,Cathemeral,level1
+809,Fish,Terrestrial,Omnivore,Large,Diurnal,level1
+810,Fish,Terrestrial,Omnivore,Large,Nocturnal,level1
+811,Fish,Terrestrial,Omnivore,Large,Crepuscular,level1
+812,Fish,Terrestrial,Omnivore,Large,Cathemeral,level1
+813,Fish,Terrestrial,Omnivore,Very Large,Diurnal,level1
+814,Fish,Terrestrial,Omnivore,Very Large,Nocturnal,level1
+815,Fish,Terrestrial,Omnivore,Very Large,Crepuscular,level1
+816,Fish,Terrestrial,Omnivore,Very Large,Cathemeral,level1
+817,Fish,Terrestrial,Insectivore,Small,Diurnal,level1
+818,Fish,Terrestrial,Insectivore,Small,Nocturnal,level1
+819,Fish,Terrestrial,Insectivore,Small,Crepuscular,level1
+820,Fish,Terrestrial,Insectivore,Small,Cathemeral,level1
+821,Fish,Terrestrial,Insectivore,Medium,Diurnal,level1
+822,Fish,Terrestrial,Insectivore,Medium,Nocturnal,level1
+823,Fish,Terrestrial,Insectivore,Medium,Crepuscular,level1
+824,Fish,Terrestrial,Insectivore,Medium,Cathemeral,level1
+825,Fish,Terrestrial,Insectivore,Large,Diurnal,level1
+826,Fish,Terrestrial,Insectivore,Large,Nocturnal,level1
+827,Fish,Terrestrial,Insectivore,Large,Crepuscular,level1
+828,Fish,Terrestrial,Insectivore,Large,Cathemeral,level1
+829,Fish,Terrestrial,Insectivore,Very Large,Diurnal,level1
+830,Fish,Terrestrial,Insectivore,Very Large,Nocturnal,level1
+831,Fish,Terrestrial,Insectivore,Very Large,Crepuscular,level1
+832,Fish,Terrestrial,Insectivore,Very Large,Cathemeral,level1
+833,Fish,Aquatic,Carnivore,Small,Diurnal,level1
+834,Fish,Aquatic,Carnivore,Small,Nocturnal,level1
+835,Fish,Aquatic,Carnivore,Small,Crepuscular,level1
+836,Fish,Aquatic,Carnivore,Small,Cathemeral,level1
+837,Fish,Aquatic,Carnivore,Medium,Diurnal,level1
+838,Fish,Aquatic,Carnivore,Medium,Nocturnal,level1
+839,Fish,Aquatic,Carnivore,Medium,Crepuscular,level1
+840,Fish,Aquatic,Carnivore,Medium,Cathemeral,level1
+841,Fish,Aquatic,Carnivore,Large,Diurnal,level1
+842,Fish,Aquatic,Carnivore,Large,Nocturnal,level1
+843,Fish,Aquatic,Carnivore,Large,Crepuscular,level1
+844,Fish,Aquatic,Carnivore,Large,Cathemeral,level1
+845,Fish,Aquatic,Carnivore,Very Large,Diurnal,level1
+846,Fish,Aquatic,Carnivore,Very Large,Nocturnal,level1
+847,Fish,Aquatic,Carnivore,Very Large,Crepuscular,level1
+848,Fish,Aquatic,Carnivore,Very Large,Cathemeral,level1
+849,Fish,Aquatic,Herbivore,Small,Diurnal,level1
+850,Fish,Aquatic,Herbivore,Small,Nocturnal,level1
+851,Fish,Aquatic,Herbivore,Small,Crepuscular,level1
+852,Fish,Aquatic,Herbivore,Small,Cathemeral,level1
+853,Fish,Aquatic,Herbivore,Medium,Diurnal,level1
+854,Fish,Aquatic,Herbivore,Medium,Nocturnal,level1
+855,Fish,Aquatic,Herbivore,Medium,Crepuscular,level1
+856,Fish,Aquatic,Herbivore,Medium,Cathemeral,level1
+857,Fish,Aquatic,Herbivore,Large,Diurnal,level1
+858,Fish,Aquatic,Herbivore,Large,Nocturnal,level1
+859,Fish,Aquatic,Herbivore,Large,Crepuscular,level1
+860,Fish,Aquatic,Herbivore,Large,Cathemeral,level1
+861,Fish,Aquatic,Herbivore,Very Large,Diurnal,level1
+862,Fish,Aquatic,Herbivore,Very Large,Nocturnal,level1
+863,Fish,Aquatic,Herbivore,Very Large,Crepuscular,level1
+864,Fish,Aquatic,Herbivore,Very Large,Cathemeral,level1
+865,Fish,Aquatic,Omnivore,Small,Diurnal,level1
+866,Fish,Aquatic,Omnivore,Small,Nocturnal,level1
+867,Fish,Aquatic,Omnivore,Small,Crepuscular,level1
+868,Fish,Aquatic,Omnivore,Small,Cathemeral,level1
+869,Fish,Aquatic,Omnivore,Medium,Diurnal,level1
+870,Fish,Aquatic,Omnivore,Medium,Nocturnal,level1
+871,Fish,Aquatic,Omnivore,Medium,Crepuscular,level1
+872,Fish,Aquatic,Omnivore,Medium,Cathemeral,level1
+873,Fish,Aquatic,Omnivore,Large,Diurnal,level1
+874,Fish,Aquatic,Omnivore,Large,Nocturnal,level1
+875,Fish,Aquatic,Omnivore,Large,Crepuscular,level1
+876,Fish,Aquatic,Omnivore,Large,Cathemeral,level1
+877,Fish,Aquatic,Omnivore,Very Large,Diurnal,level1
+878,Fish,Aquatic,Omnivore,Very Large,Nocturnal,level1
+879,Fish,Aquatic,Omnivore,Very Large,Crepuscular,level1
+880,Fish,Aquatic,Omnivore,Very Large,Cathemeral,level1
+881,Fish,Aquatic,Insectivore,Small,Diurnal,level1
+882,Fish,Aquatic,Insectivore,Small,Nocturnal,level1
+883,Fish,Aquatic,Insectivore,Small,Crepuscular,level1
+884,Fish,Aquatic,Insectivore,Small,Cathemeral,level1
+885,Fish,Aquatic,Insectivore,Medium,Diurnal,level1
+886,Fish,Aquatic,Insectivore,Medium,Nocturnal,level1
+887,Fish,Aquatic,Insectivore,Medium,Crepuscular,level1
+888,Fish,Aquatic,Insectivore,Medium,Cathemeral,level1
+889,Fish,Aquatic,Insectivore,Large,Diurnal,level1
+890,Fish,Aquatic,Insectivore,Large,Nocturnal,level1
+891,Fish,Aquatic,Insectivore,Large,Crepuscular,level1
+892,Fish,Aquatic,Insectivore,Large,Cathemeral,level1
+893,Fish,Aquatic,Insectivore,Very Large,Diurnal,level1
+894,Fish,Aquatic,Insectivore,Very Large,Nocturnal,level1
+895,Fish,Aquatic,Insectivore,Very Large,Crepuscular,level1
+896,Fish,Aquatic,Insectivore,Very Large,Cathemeral,level1
+897,Fish,Aerial,Carnivore,Small,Diurnal,level1
+898,Fish,Aerial,Carnivore,Small,Nocturnal,level1
+899,Fish,Aerial,Carnivore,Small,Crepuscular,level1
+900,Fish,Aerial,Carnivore,Small,Cathemeral,level1
+901,Fish,Aerial,Carnivore,Medium,Diurnal,level1
+902,Fish,Aerial,Carnivore,Medium,Nocturnal,level1
+903,Fish,Aerial,Carnivore,Medium,Crepuscular,level1
+904,Fish,Aerial,Carnivore,Medium,Cathemeral,level1
+905,Fish,Aerial,Carnivore,Large,Diurnal,level1
+906,Fish,Aerial,Carnivore,Large,Nocturnal,level1
+907,Fish,Aerial,Carnivore,Large,Crepuscular,level1
+908,Fish,Aerial,Carnivore,Large,Cathemeral,level1
+909,Fish,Aerial,Carnivore,Very Large,Diurnal,level1
+910,Fish,Aerial,Carnivore,Very Large,Nocturnal,level1
+911,Fish,Aerial,Carnivore,Very Large,Crepuscular,level1
+912,Fish,Aerial,Carnivore,Very Large,Cathemeral,level1
+913,Fish,Aerial,Herbivore,Small,Diurnal,level1
+914,Fish,Aerial,Herbivore,Small,Nocturnal,level1
+915,Fish,Aerial,Herbivore,Small,Crepuscular,level1
+916,Fish,Aerial,Herbivore,Small,Cathemeral,level1
+917,Fish,Aerial,Herbivore,Medium,Diurnal,level1
+918,Fish,Aerial,Herbivore,Medium,Nocturnal,level1
+919,Fish,Aerial,Herbivore,Medium,Crepuscular,level1
+920,Fish,Aerial,Herbivore,Medium,Cathemeral,level1
+921,Fish,Aerial,Herbivore,Large,Diurnal,level1
+922,Fish,Aerial,Herbivore,Large,Nocturnal,level1
+923,Fish,Aerial,Herbivore,Large,Crepuscular,level1
+924,Fish,Aerial,Herbivore,Large,Cathemeral,level1
+925,Fish,Aerial,Herbivore,Very Large,Diurnal,level1
+926,Fish,Aerial,Herbivore,Very Large,Nocturnal,level1
+927,Fish,Aerial,Herbivore,Very Large,Crepuscular,level1
+928,Fish,Aerial,Herbivore,Very Large,Cathemeral,level1
+929,Fish,Aerial,Omnivore,Small,Diurnal,level1
+930,Fish,Aerial,Omnivore,Small,Nocturnal,level1
+931,Fish,Aerial,Omnivore,Small,Crepuscular,level1
+932,Fish,Aerial,Omnivore,Small,Cathemeral,level1
+933,Fish,Aerial,Omnivore,Medium,Diurnal,level1
+934,Fish,Aerial,Omnivore,Medium,Nocturnal,level1
+935,Fish,Aerial,Omnivore,Medium,Crepuscular,level1
+936,Fish,Aerial,Omnivore,Medium,Cathemeral,level1
+937,Fish,Aerial,Omnivore,Large,Diurnal,level1
+938,Fish,Aerial,Omnivore,Large,Nocturnal,level1
+939,Fish,Aerial,Omnivore,Large,Crepuscular,level1
+940,Fish,Aerial,Omnivore,Large,Cathemeral,level1
+941,Fish,Aerial,Omnivore,Very Large,Diurnal,level1
+942,Fish,Aerial,Omnivore,Very Large,Nocturnal,level1
+943,Fish,Aerial,Omnivore,Very Large,Crepuscular,level1
+944,Fish,Aerial,Omnivore,Very Large,Cathemeral,level1
+945,Fish,Aerial,Insectivore,Small,Diurnal,level1
+946,Fish,Aerial,Insectivore,Small,Nocturnal,level1
+947,Fish,Aerial,Insectivore,Small,Crepuscular,level1
+948,Fish,Aerial,Insectivore,Small,Cathemeral,level1
+949,Fish,Aerial,Insectivore,Medium,Diurnal,level1
+950,Fish,Aerial,Insectivore,Medium,Nocturnal,level1
+951,Fish,Aerial,Insectivore,Medium,Crepuscular,level1
+952,Fish,Aerial,Insectivore,Medium,Cathemeral,level1
+953,Fish,Aerial,Insectivore,Large,Diurnal,level1
+954,Fish,Aerial,Insectivore,Large,Nocturnal,level1
+955,Fish,Aerial,Insectivore,Large,Crepuscular,level1
+956,Fish,Aerial,Insectivore,Large,Cathemeral,level1
+957,Fish,Aerial,Insectivore,Very Large,Diurnal,level1
+958,Fish,Aerial,Insectivore,Very Large,Nocturnal,level1
+959,Fish,Aerial,Insectivore,Very Large,Crepuscular,level1
+960,Fish,Aerial,Insectivore,Very Large,Cathemeral,level1
+961,Fish,Semi-aquatic,Carnivore,Small,Diurnal,level1
+962,Fish,Semi-aquatic,Carnivore,Small,Nocturnal,level1
+963,Fish,Semi-aquatic,Carnivore,Small,Crepuscular,level1
+964,Fish,Semi-aquatic,Carnivore,Small,Cathemeral,level1
+965,Fish,Semi-aquatic,Carnivore,Medium,Diurnal,level1
+966,Fish,Semi-aquatic,Carnivore,Medium,Nocturnal,level1
+967,Fish,Semi-aquatic,Carnivore,Medium,Crepuscular,level1
+968,Fish,Semi-aquatic,Carnivore,Medium,Cathemeral,level1
+969,Fish,Semi-aquatic,Carnivore,Large,Diurnal,level1
+970,Fish,Semi-aquatic,Carnivore,Large,Nocturnal,level1
+971,Fish,Semi-aquatic,Carnivore,Large,Crepuscular,level1
+972,Fish,Semi-aquatic,Carnivore,Large,Cathemeral,level1
+973,Fish,Semi-aquatic,Carnivore,Very Large,Diurnal,level1
+974,Fish,Semi-aquatic,Carnivore,Very Large,Nocturnal,level1
+975,Fish,Semi-aquatic,Carnivore,Very Large,Crepuscular,level1
+976,Fish,Semi-aquatic,Carnivore,Very Large,Cathemeral,level1
+977,Fish,Semi-aquatic,Herbivore,Small,Diurnal,level1
+978,Fish,Semi-aquatic,Herbivore,Small,Nocturnal,level1
+979,Fish,Semi-aquatic,Herbivore,Small,Crepuscular,level1
+980,Fish,Semi-aquatic,Herbivore,Small,Cathemeral,level1
+981,Fish,Semi-aquatic,Herbivore,Medium,Diurnal,level1
+982,Fish,Semi-aquatic,Herbivore,Medium,Nocturnal,level1
+983,Fish,Semi-aquatic,Herbivore,Medium,Crepuscular,level1
+984,Fish,Semi-aquatic,Herbivore,Medium,Cathemeral,level1
+985,Fish,Semi-aquatic,Herbivore,Large,Diurnal,level1
+986,Fish,Semi-aquatic,Herbivore,Large,Nocturnal,level1
+987,Fish,Semi-aquatic,Herbivore,Large,Crepuscular,level1
+988,Fish,Semi-aquatic,Herbivore,Large,Cathemeral,level1
+989,Fish,Semi-aquatic,Herbivore,Very Large,Diurnal,level1
+990,Fish,Semi-aquatic,Herbivore,Very Large,Nocturnal,level1
+991,Fish,Semi-aquatic,Herbivore,Very Large,Crepuscular,level1
+992,Fish,Semi-aquatic,Herbivore,Very Large,Cathemeral,level1
+993,Fish,Semi-aquatic,Omnivore,Small,Diurnal,level1
+994,Fish,Semi-aquatic,Omnivore,Small,Nocturnal,level1
+995,Fish,Semi-aquatic,Omnivore,Small,Crepuscular,level1
+996,Fish,Semi-aquatic,Omnivore,Small,Cathemeral,level1
+997,Fish,Semi-aquatic,Omnivore,Medium,Diurnal,level1
+998,Fish,Semi-aquatic,Omnivore,Medium,Nocturnal,level1
+999,Fish,Semi-aquatic,Omnivore,Medium,Crepuscular,level1
+1000,Fish,Semi-aquatic,Omnivore,Medium,Cathemeral,level1
+1001,Fish,Semi-aquatic,Omnivore,Large,Diurnal,level1
+1002,Fish,Semi-aquatic,Omnivore,Large,Nocturnal,level1
+1003,Fish,Semi-aquatic,Omnivore,Large,Crepuscular,level1
+1004,Fish,Semi-aquatic,Omnivore,Large,Cathemeral,level1
+1005,Fish,Semi-aquatic,Omnivore,Very Large,Diurnal,level1
+1006,Fish,Semi-aquatic,Omnivore,Very Large,Nocturnal,level1
+1007,Fish,Semi-aquatic,Omnivore,Very Large,Crepuscular,level1
+1008,Fish,Semi-aquatic,Omnivore,Very Large,Cathemeral,level1
+1009,Fish,Semi-aquatic,Insectivore,Small,Diurnal,level1
+1010,Fish,Semi-aquatic,Insectivore,Small,Nocturnal,level1
+1011,Fish,Semi-aquatic,Insectivore,Small,Crepuscular,level1
+1012,Fish,Semi-aquatic,Insectivore,Small,Cathemeral,level1
+1013,Fish,Semi-aquatic,Insectivore,Medium,Diurnal,level1
+1014,Fish,Semi-aquatic,Insectivore,Medium,Nocturnal,level1
+1015,Fish,Semi-aquatic,Insectivore,Medium,Crepuscular,level1
+1016,Fish,Semi-aquatic,Insectivore,Medium,Cathemeral,level1
+1017,Fish,Semi-aquatic,Insectivore,Large,Diurnal,level1
+1018,Fish,Semi-aquatic,Insectivore,Large,Nocturnal,level1
+1019,Fish,Semi-aquatic,Insectivore,Large,Crepuscular,level1
+1020,Fish,Semi-aquatic,Insectivore,Large,Cathemeral,level1
+1021,Fish,Semi-aquatic,Insectivore,Very Large,Diurnal,level1
+1022,Fish,Semi-aquatic,Insectivore,Very Large,Nocturnal,level1
+1023,Fish,Semi-aquatic,Insectivore,Very Large,Crepuscular,level1
+1024,Fish,Semi-aquatic,Insectivore,Very Large,Cathemeral,level1

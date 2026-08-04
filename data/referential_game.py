@@ -1,7 +1,7 @@
 import random
+
 import torch
 
-from data.dataset import ObjectDataset
 
 
 class ReferentialGame:
@@ -12,16 +12,25 @@ class ReferentialGame:
     def sample_game(self):
         indices = random.sample(
             range(len(self.dataset)),
-            self.num_candidates
+            self.num_candidates,
         )
+
         target_dataset_index = indices[0]
+
         random.shuffle(indices)
-        target_index = indices.index(target_dataset_index)
+
+        target_index = indices.index(
+            target_dataset_index
+        )
+
         candidates = torch.stack([
             self.dataset[i]["features"]
             for i in indices
         ])
-        target = self.dataset[target_dataset_index]["features"]
+
+        target = self.dataset[
+            target_dataset_index
+        ]["features"]
 
         return {
             "target": target,
@@ -30,28 +39,31 @@ class ReferentialGame:
         }
 
     def sample_batch(self, batch_size):
-     games = [
-        self.sample_game()
-        for _ in range(batch_size)
-    ]
+        games = [
+            self.sample_game()
+            for _ in range(batch_size)
+        ]
 
-     targets = torch.stack([
-        game["target"]
-        for game in games
-    ])
+        targets = torch.stack([
+            game["target"]
+            for game in games
+        ])
 
-     candidates = torch.stack([
-        game["candidates"]
-        for game in games
-    ])
- 
-     target_indices = torch.tensor([
-        game["target_index"]
-        for game in games
-    ], dtype=torch.long)
+        candidates = torch.stack([
+            game["candidates"]
+            for game in games
+        ])
 
-     return {
-        "target": targets,
-        "candidates": candidates,
-        "target_index": target_indices,
-    }
+        target_indices = torch.tensor(
+            [
+                game["target_index"]
+                for game in games
+            ],
+            dtype=torch.long,
+        )
+
+        return {
+            "target": targets,
+            "candidates": candidates,
+            "target_index": target_indices,
+        }
