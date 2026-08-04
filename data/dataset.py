@@ -13,6 +13,8 @@ FEATURE_COLUMNS = [
     "activity_pattern",
 ]
 
+NUM_FEATURES = len(FEATURE_COLUMNS)
+
 
 class ObjectDataset(Dataset):
 
@@ -42,11 +44,14 @@ class ObjectDataset(Dataset):
                 self.df[column].map(mapping)
             )
 
-        encoded_df = pd.concat(encoded_columns, axis=1)
+        encoded_df = pd.concat(
+            encoded_columns,
+            axis=1,
+        )
 
         self.features = torch.tensor(
             encoded_df.values,
-            dtype=torch.long
+            dtype=torch.long,
         )
 
     def __len__(self):
@@ -55,6 +60,8 @@ class ObjectDataset(Dataset):
     def __getitem__(self, index):
 
         return {
-            "object_id": int(self.df.iloc[index]["object_id"]),
+            "object_id": int(
+                self.df.iloc[index]["object_id"]
+            ),
             "features": self.features[index],
         }
