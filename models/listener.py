@@ -1,3 +1,4 @@
+
 import torch
 import torch.nn as nn
 
@@ -18,51 +19,28 @@ class CandidateEncoder(nn.Module):
         super().__init__()
 
         self.feature_embeddings = nn.ModuleList([
-            nn.Embedding(
-                num_values,
-                embedding_dim,
-            )
+            nn.Embedding(num_values, embedding_dim)
             for _ in range(NUM_FEATURES)
         ])
 
     def forward(self, candidates):
         """
-        Encode categorical candidate features.
-
-        Args:
-            candidates:
-                Tensor with shape
-                [B, num_candidates, NUM_FEATURES].
-
-        Returns:
-            Candidate representations with shape
-            [B, num_candidates, NUM_FEATURES * embedding_dim].
+        candidates: [B, num_candidates, 5]
+        returns:    [B, num_candidates, 80]
         """
-
+        candidates = candidates.long()
         embeddings = []
 
         for feature_idx in range(NUM_FEATURES):
+            feature_values = candidates[:, :, feature_idx]
 
-            feature_values = candidates[
-                :, :, feature_idx
-            ]
+            feature_embedding = self.feature_embeddings[
+                feature_idx
+            ](feature_values)
 
-            feature_embedding = (
-                self.feature_embeddings[feature_idx](
-                    feature_values
-                )
-            )
+            embeddings.append(feature_embedding)
 
-            embeddings.append(
-                feature_embedding
-            )
-
-        candidate_vectors = torch.cat(
-            embeddings,
-            dim=-1,
-        )
-
-        return candidate_vectors
+        return torch.cat(embeddings, dim=-1)
 
 
 class ListenerAgent(nn.Module):
@@ -80,8 +58,7 @@ class ListenerAgent(nn.Module):
         )
 
         candidate_vector_size = (
-            NUM_FEATURES
-            * candidate_embedding_dim
+            NUM_FEATURES * candidate_embedding_dim
         )
 
         self.message_projection = nn.Linear(
@@ -89,46 +66,33 @@ class ListenerAgent(nn.Module):
             candidate_vector_size,
         )
 
+    # IMPORTANT: forward must be indented inside ListenerAgent
     def forward(
         self,
         hidden_state,
-        candidates,
+        input=None,
         aux_input=None,
     ):
         """
-        Score each candidate using the Receiver hidden state.
-
-        Args:
-            hidden_state:
-                [B, receiver_hidden_size]
-
-            candidates:
-                [B, num_candidates, NUM_FEATURES]
-
-        Returns:
-            Candidate scores:
-                [B, num_candidates]
+        hidden_state: [B, receiver_hidden_size]
+        input:        [B, num_candidates, 5]
+        returns:      [B, num_candidates]
         """
-
-        candidate_vectors = (
-            self.candidate_encoder(
-                candidates
+        if input is None:
+            raise ValueError(
+                "Listener requires candidates as receiver input."
             )
-        )
 
-        message_vector = (
-            self.message_projection(
-                hidden_state
-            )
-        )
+        candidates = input.long()
 
-        message_vector = (
-            message_vector.unsqueeze(1)
-        )
+        candidate_vectors = self.candidate_encoder(candidates)
+
+        message_vector = self.message_projection(
+            hidden_state
+        ).unsqueeze(1)
 
         scores = (
-            candidate_vectors
-            * message_vector
+            candidate_vectors * message_vector
         ).sum(dim=-1)
 
         return scores
@@ -140,7 +104,6 @@ def build_listener(
     receiver_hidden_size=128,
     candidate_embedding_dim=16,
 ):
-
     agent = ListenerAgent(
         receiver_hidden_size=receiver_hidden_size,
         candidate_embedding_dim=candidate_embedding_dim,

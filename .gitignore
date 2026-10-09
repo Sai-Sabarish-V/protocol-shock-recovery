@@ -17,3 +17,5 @@ __pycache__/
 # Training outputs (we'll use these later)
 checkpoints/
 outputs/
+# Local model checkpoints
+*.pt
